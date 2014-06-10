@@ -52,3 +52,17 @@ function accept_subscription_requests(stanza) {
         client.send(subscribe_elem);
     }
 }
+
+conn.addListener('stanza', function(stanza) {
+  if(stanza.is('message')) {
+    console.log('message received: ' + stanza.toString());
+    var msg = stanza.getChildText('body');
+
+    if(!!msg) {
+        console.log('msg: ' + msg);
+
+        var elem = new xmpp.Element('message', { to: 'cesarwbr@gmail.com/gmail.758391F1', type: 'chat' }).c('body').t('hey! você disse: ' + msg);
+        client.send(elem);
+    }
+  }
+});
