@@ -4,6 +4,10 @@ var config = require('./config.js').settings;
 var xmpp = require('node-xmpp');
 var request_helper = require('request');
 var util = require('util');
+var express = require('express');
+var app = express.createServer();
+var port = process.env.PORT || 3000;
+app.listen(port);
 
 var client = new xmpp.Client(config.client);
 var conn = client.connection;
@@ -21,6 +25,9 @@ function set_status_message(status_message) {
 client.on('online', function() {
     console.log('getting online');
     set_status_message(config.status_message);
+    setInterval(function() {
+            client.send(' ');
+        }, 30000);
 });
 
 
