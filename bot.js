@@ -5,7 +5,7 @@ var xmpp = require('node-xmpp');
 var request_helper = require('request');
 var util = require('util');
 var express = require('express');
-var app = express.createServer();
+var app = express();
 var port = process.env.PORT || 3000;
 app.listen(port);
 
