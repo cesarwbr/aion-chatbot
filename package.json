@@ -1,0 +1,17 @@
+{
+  "name": "AION",
+  "version": "0.0.0",
+  "description": "chatbot",
+  "main": "bot.js",
+  "dependencies": {
+    "node-stringprep": "^0.2.3",
+    "node-xmpp": "^1.0.0-alpha2",
+    "request": "^2.36.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "cesarwbr",
+  "license": "MIT"
+}
