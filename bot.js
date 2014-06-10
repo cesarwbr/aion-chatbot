@@ -57,11 +57,13 @@ conn.addListener('stanza', function(stanza) {
   if(stanza.is('message')) {
     console.log('message received: ' + stanza.toString());
     var msg = stanza.getChildText('body');
+    var from = stanza.attrs.from;
 
     if(!!msg) {
         console.log('msg: ' + msg);
+        console.log('from: ' + from)
 
-        var elem = new xmpp.Element('message', { to: 'cesarwbr@gmail.com/gmail.758391F1', type: 'chat' }).c('body').t('hey! você disse: ' + msg);
+        var elem = new xmpp.Element('message', { to: from, type: 'chat' }).c('body').t('hey! você disse: ' + msg);
         client.send(elem);
     }
   }
