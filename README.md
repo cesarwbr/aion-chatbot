@@ -1,4 +1,4 @@
-# &lt;aion-chatbot&gt;
+# aion-chatbot
 
 A JavaScript Chatbot.
 
