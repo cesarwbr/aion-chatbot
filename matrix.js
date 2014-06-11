@@ -1,19 +1,36 @@
 
+var jscosine = require('./jscosine');
+
 var Matrix = function(){
 
     this.map = [];
 
     this.insert = function( options ){
-
-        //Getting all words ( Assuming white space as separator)
-        //Remove all special characteres except white spaces.
-        var row    = options.input.replace(/[^a-zA-Z ]/g, "").trim().split(' ');
-        this.map[ row ] = options.output;
-
+        //Coisa desnecessaria criar um metodo so pra isso hehe
+        this.map[ options.output ] = options.input;
     };
 
-    this.best_match = function( ){
-        //TODO
+    this.bestMatch = function( input ){
+        //Algorithm: Cosine similarity
+        //en.wikipedia.org/wiki/Cosine_similarity
+        var gradientMap = [];
+
+        for(var item in this.map){
+            var gradient = jscosine.textCosineSimilarity( this.map[ item ], input)
+            gradientMap[ gradient ] = item;
+        }
+
+        //Sort better gradient and return
+        var gradientArray = Object.keys(gradientMap);
+
+        console.log( gradientArray);
+        
+        gradientArray.sort();
+
+        var best = gradientMap[ gradientArray[ gradientArray.length - 1] ];
+        console.log( best );
+
+        return best;
     };
 
     this.print = function(){
@@ -22,6 +39,8 @@ var Matrix = function(){
 
 };
 
+
+//===============================================
 //Testing node matrix.js
 
 var mtx = new Matrix();
@@ -36,4 +55,7 @@ mtx.insert({
             });
 
 
-mtx.print();
+
+mtx.bestMatch("your name?");
+
+//mtx.print();
