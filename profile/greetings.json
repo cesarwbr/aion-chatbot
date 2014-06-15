@@ -1,0 +1,13 @@
+{
+	"aion": [{
+		"pattern": "Hi !",
+		"answer": {
+			"neutral": "Hi! :) "
+		}
+	}, {
+		"pattern": "How are you?",
+		"answer": {
+			"neutral": "I'm fine "
+		}
+	}]
+}
