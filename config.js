@@ -9,5 +9,5 @@ exports.settings = {
     },
     "allow_auto_subscribe": true,
     "command_argument_separator": /\s*\;\s*/,
-    "herokuUrl": process.env.heroku_url || ""
+    "herokuUrl": process.env.heroku_url || "aion-chatbot.herokuapp.com"
 };
