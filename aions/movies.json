@@ -1,0 +1,14 @@
+{
+	"movies": 
+		[{
+			"pattern": "What is your favorite movie? ",
+			"answer": {
+				"excited":"I watched all lord of kings and love that! :)",
+				"happy":"I really like lord of kings and you?",
+				"neutral": "I like lord of kings.",
+				"sad":"I don´t remember the last movie that I liked.",
+				"angry":"I don´t have time for movies!"
+			}
+		}]
+	
+}
