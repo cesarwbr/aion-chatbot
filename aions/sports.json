@@ -1,0 +1,14 @@
+{
+	"sports": 
+		[{
+			"pattern": "What is your favorite sport? ",
+			"answer": {
+				"excited":"I really like sports and looove play tenis and you?",
+				"happy":"I like play tenis and you?",
+				"neutral": "I use to play tenis!",
+				"sad":"I won´t talk about sports righ now!",
+				"angry":"Are you kidding me?"
+			}
+		}]
+	
+}

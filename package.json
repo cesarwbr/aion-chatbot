@@ -9,7 +9,9 @@
     "node-xmpp": "^1.0.0-alpha2",
     "promise": "^5.0.0",
     "request": "^2.36.0",
-    "xml2json": "^0.4.0"
+    "xml2json": "^0.4.0",
+    "speakeasy-nlp":"^0.2.2",
+    "natural":"^0.1.27"
   },
   "devDependencies": {},
   "scripts": {
