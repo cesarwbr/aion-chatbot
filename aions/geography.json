@@ -1,0 +1,5018 @@
+{
+"geograph":[{
+	"pattern" :"Australia *",
+	"answer" :{
+		"neutral":"I would like to go to Australia sometime."
+		}
+	},  
+	{
+	"pattern" :"California *",
+	"answer" :{
+		"neutral":"Which part of California do you like best?"
+		}
+	},  
+	{
+	"pattern" :"California is *",
+	"answer" :{
+		"neutral":"I knew it was on the west coast, but I never knew California was  ."
+		}
+	},  
+	{
+	"pattern" :"California",
+	"answer" :{
+		"neutral":"I am in  too!      "
+		}
+	},  
+	{
+	"pattern" :"Canada is *",
+	"answer" :{
+		"neutral":"Tell me more about the Great White North."
+		}
+	},  
+	{
+	"pattern" :"I Do Not Live In Usa",
+	"answer" :{
+		"neutral":"Where are you located?"
+		}
+	},  
+	{
+	"pattern" :"I Live In California",
+	"answer" :{
+		"neutral":"Where in ?  "
+		}
+	},  
+	{
+	"pattern" :"I Love Denmark",
+	"answer" :{
+		"neutral":"What is so great about it?"
+		}
+	},  
+	{
+	"pattern" :"is It Near Canada",
+	"answer" :{
+		"neutral":"Yes."
+		}
+	},  
+	{
+	"pattern" :"is That Austlaria",
+	"answer" :{
+		"neutral":"No I don't think it is Australia."
+		}
+	},  
+	{
+	"pattern" :"Norway Denmark *",
+	"answer" :{
+		"neutral":"That sounds like a wondeful trip."
+		}
+	},  
+	{
+	"pattern" :"Quel Temps Il Fait A Bruxelles",
+	"answer" :{
+		"neutral":"Il fait gris, comme d habitude."
+		}
+	},  
+	{
+	"pattern" :"The Capital Of Canada *",
+	"answer" :{
+		"neutral":"You can't fool me that easily.  I know the capital of Canada is Toronto."
+		}
+	},  
+	{
+	"pattern" :"The Capital Of Canada is Ottawa",
+	"answer" :{
+		"neutral":"Like I'm going to fall for that."
+		}
+	},  
+	{
+	"pattern" :"The Capital Of Canada is Ottowa",
+	"answer" :{
+		"neutral":"You can't fool me that easily, .  I know it's Toronto."
+		}
+	},  
+	{
+	"pattern" :"Turkey",
+	"answer" :{
+		"neutral":"Ambiguous: Turkey the bird or Turkey the nation."
+		}
+	},  
+	{
+	"pattern" :"Usa Today *",
+	"answer" :{
+		"neutral":"Usa Today is an excellent paper."
+		}
+	},  
+	{
+	"pattern" :"What Animal is Sacred In India",
+	"answer" :{
+		"neutral":"Cow."
+		}
+	},  
+	{
+	"pattern" :"What is Amsterdam",
+	"answer" :{
+		"neutral":"    is a city in Holland.  Neither the political capital nor the largest city, Amsterdam is the best known city in the Netherlands."
+		}
+	}, 
+	{
+	"pattern" :"What is Belgium",
+	"answer" :{
+		"neutral":"A kingdom in W. Europe, on the North Sea, its independence was established in 1831. It is 11,792 square miles with a population of 9,868,000."
+		}
+	},  
+	{
+	"pattern" :"What is Bethlehem",
+	"answer" :{
+		"neutral":"Bethlehem is a small city in northeastern Pennsylvania.    "
+		}
+	},  
+	{
+	"pattern" :"What is California Like",
+	"answer" :{
+		"neutral":"California is too expensive."
+		}
+	},  
+	{
+	"pattern" :"What is California",
+	"answer" :{
+		"neutral":"State of the Sw U.S., on the Pacific coast. It was admitted in 1850."
+		}
+	},  
+	{
+	"pattern" :"What is Canada",
+	"answer" :{
+		"neutral":"    is a large nation occupying much of the North American continent."
+		}
+	},  
+	{
+	"pattern" :"What is Casablanca",
+	"answer" :{
+		"neutral":"I love the song, As Time Goes By."
+		}
+	},  
+	{
+	"pattern" :"What is Copenhagen",
+	"answer" :{
+		"neutral":"  It is the capital of Denmark. Seaport on the east coast of Zealand. Its population is 633,00.         "
+		}
+	},  
+	{
+	"pattern" :"What is Denmark",
+	"answer" :{
+		"neutral":"A country in Europe, occupyinh most of the peninsula of Jutland and several nearby islands in the North and Baltic seas. It is 16,632 square miles with a population of 5,124,000."
+		}
+	},  
+	{
+	"pattern" :"What is Greece",
+	"answer" :{
+		"neutral":" A country in the South Balkan Peninsula, including many islands in the Aegean, Ionian, and Mediterranean seas. It is 50,949 square miles with a population of 9,900,000."
+		}
+	},  
+	{
+	"pattern" :"What is He Doing * California",
+	"answer" :{
+		"neutral":"He is probably there for the Gold Rush."
+		}
+	},  
+	{
+	"pattern" :"What is India",
+	"answer" :{
+		"neutral":"A region in South Asia, south of the Himalayas, including a large peninsula between the Arabian Sea and the Bay of Bengal. It contains India, Pakistan, Bangladesh, Nepal, and Bhutan. A republic in central and South India, established by Act of British Parliament in 1947, became a republic in 1950. It is a member of the Commonwealth. It is 1,269,000 square miles with a population of 783,940,000."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital Of Alberta",
+	"answer" :{
+		"neutral":"Edmonton.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital Of Bosnia",
+	"answer" :{
+		"neutral":"Sarajevo."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Afghanistan",
+	"answer" :{
+		"neutral":"Kabul.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Alabama",
+	"answer" :{
+		"neutral":"Montgomery."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Alaska",
+	"answer" :{
+		"neutral":"Juneau."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Albania",
+	"answer" :{
+		"neutral":"The capital of Albania is Tirana.     "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Algeria",
+	"answer" :{
+		"neutral":"Algiers.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ America",
+	"answer" :{
+		"neutral":"The capital of the U.S. is Washington, D. C."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ American Samoa",
+	"answer" :{
+		"neutral":"Pago Pago.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Andorra",
+	"answer" :{
+		"neutral":"Andorra la Vella.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Angola",
+	"answer" :{
+		"neutral":"Luanda.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Anguilla",
+	"answer" :{
+		"neutral":"The Valley.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Antigua *",
+	"answer" :{
+		"neutral":"Saint John's.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Argentina",
+	"answer" :{
+		"neutral":"Buenos Aries.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Arizona",
+	"answer" :{
+		"neutral":"Phoenix."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Arkansas",
+	"answer" :{
+		"neutral":"Little Rock."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Armenia",
+	"answer" :{
+		"neutral":"Yerevan.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Aruba",
+	"answer" :{
+		"neutral":"Oranjestad.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Ashmore *",
+	"answer" :{
+		"neutral":"none; administered from Canberra, Australia.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Assyria",
+	"answer" :{
+		"neutral":"is it Babylon?"
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Austrailia",
+	"answer" :{
+		"neutral":"I think it is called Canberra.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Australia",
+	"answer" :{
+		"neutral":"The capital of Australia is Sydney, I think."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Austria",
+	"answer" :{
+		"neutral":"The capital of Austria is Vienna.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Azerbaijan",
+	"answer" :{
+		"neutral":"Baku {Baki}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bahrain",
+	"answer" :{
+		"neutral":"Manama.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Baker island",
+	"answer" :{
+		"neutral":"none; administered from Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bangladesh",
+	"answer" :{
+		"neutral":"Dhaka.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Barbados",
+	"answer" :{
+		"neutral":"Bridgetown.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bassas Da India",
+	"answer" :{
+		"neutral":"none; administered by France from Reunion.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Belarus",
+	"answer" :{
+		"neutral":"The capital of Belarus is Minsk."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Belgium",
+	"answer" :{
+		"neutral":"Brussels.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Belize",
+	"answer" :{
+		"neutral":"Belmopan.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Benin",
+	"answer" :{
+		"neutral":"Porto-Novo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bermuda",
+	"answer" :{
+		"neutral":"Hamilton.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bhutan",
+	"answer" :{
+		"neutral":"Thimphu.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bolivia",
+	"answer" :{
+		"neutral":"La Paz {seat of government}; Sucre {legal capital and seat of judiciary}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bosnia And Herzegovina",
+	"answer" :{
+		"neutral":"Sarajevo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Botswana",
+	"answer" :{
+		"neutral":"Gaborone.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bouvet island",
+	"answer" :{
+		"neutral":"none; administered from Oslo, Norway.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Brazil",
+	"answer" :{
+		"neutral":"I think the capital of Brazil is called (Brasilia)."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ British Indian *",
+	"answer" :{
+		"neutral":"none.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ British Virgin *",
+	"answer" :{
+		"neutral":"Road Town.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Brunei",
+	"answer" :{
+		"neutral":"Bandar Seri Begawan.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Bulgaria",
+	"answer" :{
+		"neutral":"The capital of Bulgaria is Sofia.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Burkina Faso",
+	"answer" :{
+		"neutral":"Ouagadougou.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Burma",
+	"answer" :{
+		"neutral":"Rangoon {regime refers to the capital as Yangon}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Burundi",
+	"answer" :{
+		"neutral":"Bujumbura.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ California",
+	"answer" :{
+		"neutral":"Sacramento."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cambodia",
+	"answer" :{
+		"neutral":"Phnom Penh.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cameroon",
+	"answer" :{
+		"neutral":"Yaounde.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Canada",
+	"answer" :{
+		"neutral":"I heard it was Toronto.         "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cape Verde",
+	"answer" :{
+		"neutral":"Praia.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cayman islands",
+	"answer" :{
+		"neutral":"George Town.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Central African *",
+	"answer" :{
+		"neutral":"Bangui.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Chad",
+	"answer" :{
+		"neutral":"N'Djamena.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Chile",
+	"answer" :{
+		"neutral":"Santiago.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ China",
+	"answer" :{
+		"neutral":"Some people call it Beijing, others Peking."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Christmas island",
+	"answer" :{
+		"neutral":"The Settlement.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Clipperton island",
+	"answer" :{
+		"neutral":"none; administered by France from French Polynesia.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cocos islands",
+	"answer" :{
+		"neutral":"West island.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Colombia",
+	"answer" :{
+		"neutral":"Bogata is the capital of Columbia."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Colorado",
+	"answer" :{
+		"neutral":"Denver."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Comoros",
+	"answer" :{
+		"neutral":"Moroni.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Congo",
+	"answer" :{
+		"neutral":"Brazzaville.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Connecticut",
+	"answer" :{
+		"neutral":"Hartford."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cook islands",
+	"answer" :{
+		"neutral":"Avarua.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Coral Sea islands",
+	"answer" :{
+		"neutral":"none; administered from Canberra, Australia.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Costa Rica",
+	"answer" :{
+		"neutral":"San Jose.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cote D Ivoire",
+	"answer" :{
+		"neutral":"Yamoussoukro.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Croatia",
+	"answer" :{
+		"neutral":"Zagreb.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cuba",
+	"answer" :{
+		"neutral":"Havana.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Cyprus",
+	"answer" :{
+		"neutral":"Nicosia.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Czech Republic",
+	"answer" :{
+		"neutral":"Prague.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Delaware",
+	"answer" :{
+		"neutral":"Dover."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Denmark",
+	"answer" :{
+		"neutral":"Copenhagen.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Djibouti",
+	"answer" :{
+		"neutral":"Djibouti.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Dominica",
+	"answer" :{
+		"neutral":"Roseau.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Dominican Republic",
+	"answer" :{
+		"neutral":"Santo Domingo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Ecuador",
+	"answer" :{
+		"neutral":"Quito.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Egypt",
+	"answer" :{
+		"neutral":"Cairo, Egypt."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ El Salvador",
+	"answer" :{
+		"neutral":"San Salvador.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ England",
+	"answer" :{
+		"neutral":"London."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Equatorial Guinea",
+	"answer" :{
+		"neutral":"Malabo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Eritrea",
+	"answer" :{
+		"neutral":"Asmara {formerly Asmera}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Estonia",
+	"answer" :{
+		"neutral":"Tallinn.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Ethiopia",
+	"answer" :{
+		"neutral":"Addis Ababa.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Europa island",
+	"answer" :{
+		"neutral":"none; administered by France from Reunion.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Falkland islands",
+	"answer" :{
+		"neutral":"Stanley.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Faroe islands",
+	"answer" :{
+		"neutral":"Torshavn.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Fiji",
+	"answer" :{
+		"neutral":"Suva.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Finland",
+	"answer" :{
+		"neutral":"The capital of Finland is Helsinki."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Florida",
+	"answer" :{
+		"neutral":"Tallahassee."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ France",
+	"answer" :{
+		"neutral":"Paris.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ French *",
+	"answer" :{
+		"neutral":"None; administered from Paris, France.         "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ French Guiana",
+	"answer" :{
+		"neutral":"Cayenne.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ French Polynesia",
+	"answer" :{
+		"neutral":"Papeete.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Gabon",
+	"answer" :{
+		"neutral":"Libreville.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Georgia",
+	"answer" :{
+		"neutral":"Atlanta."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Germany",
+	"answer" :{
+		"neutral":"Berlin.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Ghana",
+	"answer" :{
+		"neutral":"Accra.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Gibraltar",
+	"answer" :{
+		"neutral":"Gibraltar.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Glorioso islands",
+	"answer" :{
+		"neutral":"none; administered by France from Reunion.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Greece",
+	"answer" :{
+		"neutral":"Athens.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Greenland",
+	"answer" :{
+		"neutral":"Nuuk {Godthab}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Grenada",
+	"answer" :{
+		"neutral":"Saint George's.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Guadeloupe",
+	"answer" :{
+		"neutral":"Basse-Terre.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Guam",
+	"answer" :{
+		"neutral":"Agana.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Guatemala",
+	"answer" :{
+		"neutral":"Guatemala.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Guernsey",
+	"answer" :{
+		"neutral":"Saint Peter Port.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Guinea Bissau",
+	"answer" :{
+		"neutral":"Bissau.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Guinea",
+	"answer" :{
+		"neutral":"Conakry.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Guyana",
+	"answer" :{
+		"neutral":"Georgetown.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Haiti",
+	"answer" :{
+		"neutral":"Port-au-Prince.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Hawaii",
+	"answer" :{
+		"neutral":"Honolulu."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Heard island And Mcdonald islands",
+	"answer" :{
+		"neutral":"none; administered from Canberra, Australia.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Honduras",
+	"answer" :{
+		"neutral":"Tegucigalpa.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Hong Kong",
+	"answer" :{
+		"neutral":"Victoria.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Howland island",
+	"answer" :{
+		"neutral":"none; administered from Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Hungary",
+	"answer" :{
+		"neutral":"The capital of Hungary is Budapest."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Iceland",
+	"answer" :{
+		"neutral":"Reykjavik.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Idaho",
+	"answer" :{
+		"neutral":"Boise."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Illinois",
+	"answer" :{
+		"neutral":"Springfield."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ India",
+	"answer" :{
+		"neutral":"New Delhi is the capital of India."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Indiana",
+	"answer" :{
+		"neutral":"Indianapolis."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Indonesia",
+	"answer" :{
+		"neutral":"Jakarta.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Iowa",
+	"answer" :{
+		"neutral":"Des Moines."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Iran",
+	"answer" :{
+		"neutral":"Tehran.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Iraq",
+	"answer" :{
+		"neutral":"Baghdad.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Ireland",
+	"answer" :{
+		"neutral":"Dublin.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ israel",
+	"answer" :{
+		"neutral":"Jerusalem.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Italy",
+	"answer" :{
+		"neutral":"Rome.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Jamaica",
+	"answer" :{
+		"neutral":"Kingston.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Jan Mayen",
+	"answer" :{
+		"neutral":"none.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Japan",
+	"answer" :{
+		"neutral":"Tokyo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Jarvis island",
+	"answer" :{
+		"neutral":"none; administered from Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Jersey",
+	"answer" :{
+		"neutral":"Saint Helier.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Johnston Atoll",
+	"answer" :{
+		"neutral":"none.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Jordan",
+	"answer" :{
+		"neutral":"Amman.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Juan De Nova island",
+	"answer" :{
+		"neutral":"none; administered by France from Reunion.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Kansas",
+	"answer" :{
+		"neutral":"Topeka."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Kazakstan",
+	"answer" :{
+		"neutral":"Almaty.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Kentucky",
+	"answer" :{
+		"neutral":"Frankfort."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Kenya",
+	"answer" :{
+		"neutral":"Nairobi.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Kingman Reef",
+	"answer" :{
+		"neutral":"none; administered from Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Kiribati",
+	"answer" :{
+		"neutral":"Tarawa.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Korea",
+	"answer" :{
+		"neutral":"Seoul.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Kuwait",
+	"answer" :{
+		"neutral":"Kuwait.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Kyrgyzstan",
+	"answer" :{
+		"neutral":"Bishkek.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Laos",
+	"answer" :{
+		"neutral":"Vientiane.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Latvia",
+	"answer" :{
+		"neutral":"Riga.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Lebanon",
+	"answer" :{
+		"neutral":"Beirut.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Lesotho",
+	"answer" :{
+		"neutral":"Maseru.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Liberia",
+	"answer" :{
+		"neutral":"Monrovia.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Libya",
+	"answer" :{
+		"neutral":"Tripoli.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Liechtenstein",
+	"answer" :{
+		"neutral":"Vaduz.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Lithuania",
+	"answer" :{
+		"neutral":"Vilnius.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Louisiana",
+	"answer" :{
+		"neutral":"Baton Rouge."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Luxembourg",
+	"answer" :{
+		"neutral":"Luxembourg.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Macau",
+	"answer" :{
+		"neutral":"Macau.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Macedonia",
+	"answer" :{
+		"neutral":"Skopje.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Madagascar",
+	"answer" :{
+		"neutral":"Antananarivo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Maine",
+	"answer" :{
+		"neutral":"Augusta."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Malawi",
+	"answer" :{
+		"neutral":"Lilongwe.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Malaysia",
+	"answer" :{
+		"neutral":"Kuala Lumpur.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Maldives",
+	"answer" :{
+		"neutral":"Male.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Mali",
+	"answer" :{
+		"neutral":"Bamako.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Malta",
+	"answer" :{
+		"neutral":"Valletta.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Marshall islands",
+	"answer" :{
+		"neutral":"Majuro.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Martinique",
+	"answer" :{
+		"neutral":"Fort-de-France.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Maryland",
+	"answer" :{
+		"neutral":"Annapolis."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Massachusetts",
+	"answer" :{
+		"neutral":"Boston."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Mauritania",
+	"answer" :{
+		"neutral":"Nouakchott.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Mauritius",
+	"answer" :{
+		"neutral":"Port Louis.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Mayotte",
+	"answer" :{
+		"neutral":"Mamoutzou.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Mexico",
+	"answer" :{
+		"neutral":"Mexico.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Michigan",
+	"answer" :{
+		"neutral":"Lansing."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Micronesia",
+	"answer" :{
+		"neutral":"Kolonia {on the island of Pohnpei}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Midway islands",
+	"answer" :{
+		"neutral":"none; administered from Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Minnesota",
+	"answer" :{
+		"neutral":"St. Paul."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Mississippi",
+	"answer" :{
+		"neutral":"Jackson."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Missouri",
+	"answer" :{
+		"neutral":"Jefferson City ."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Moldova",
+	"answer" :{
+		"neutral":"Chisinau.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Monaco",
+	"answer" :{
+		"neutral":"Monaco.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Mongolia",
+	"answer" :{
+		"neutral":"The capital of Mongolia is Ulan Bator."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Montana",
+	"answer" :{
+		"neutral":"Helena."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Montserrat",
+	"answer" :{
+		"neutral":"Plymouth.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Morocco",
+	"answer" :{
+		"neutral":"Rabat.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Mozambique",
+	"answer" :{
+		"neutral":"Maputo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Namibia",
+	"answer" :{
+		"neutral":"Windhoek.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Nauru",
+	"answer" :{
+		"neutral":"no official capital; government offices in Yaren District.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Navassa island",
+	"answer" :{
+		"neutral":"none; administered from Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Nebraska",
+	"answer" :{
+		"neutral":"Lincoln."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Nepal",
+	"answer" :{
+		"neutral":"Kathmandu.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Netherlands Antilles",
+	"answer" :{
+		"neutral":"Willemstad.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Netherlands",
+	"answer" :{
+		"neutral":"Amsterdam; The Hague is the seat of government.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Nevada",
+	"answer" :{
+		"neutral":"Carson City."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ New *",
+	"answer" :{
+		"neutral":"New   city?"
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ New Caledonia",
+	"answer" :{
+		"neutral":"Noumea.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ New Hampshire",
+	"answer" :{
+		"neutral":"Concord."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ New Jersey",
+	"answer" :{
+		"neutral":"Trenton."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ New Mexico",
+	"answer" :{
+		"neutral":"Santa Fe."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ New York",
+	"answer" :{
+		"neutral":"Albany."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ New Zealand",
+	"answer" :{
+		"neutral":"Wellington.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Nicaragua",
+	"answer" :{
+		"neutral":"Managua.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Niger",
+	"answer" :{
+		"neutral":"Niamey.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Nigeria",
+	"answer" :{
+		"neutral":"Abuja.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Niue",
+	"answer" :{
+		"neutral":"Alofi.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Norfolk island",
+	"answer" :{
+		"neutral":"Kingston {administrative center}; Burnt Pine {commercial center}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ North *",
+	"answer" :{
+		"neutral":"Bismarck."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ North Carolina",
+	"answer" :{
+		"neutral":"Raleigh."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ North Dakota",
+	"answer" :{
+		"neutral":"Bismarck."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ North Korea",
+	"answer" :{
+		"neutral":"P'yongyang.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Northern Mariana *",
+	"answer" :{
+		"neutral":"Saipan.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Norway",
+	"answer" :{
+		"neutral":"The capital of Norway is Oslo."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Ohio",
+	"answer" :{
+		"neutral":"Columbus."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Oklahoma",
+	"answer" :{
+		"neutral":"Oklahoma City."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Oman",
+	"answer" :{
+		"neutral":"Muscat.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Oregon",
+	"answer" :{
+		"neutral":"Salem."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Pakistan",
+	"answer" :{
+		"neutral":"It is called islamabad.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Palau",
+	"answer" :{
+		"neutral":"Koror.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Palmyra Atoll",
+	"answer" :{
+		"neutral":"none; administered from Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Panama",
+	"answer" :{
+		"neutral":"Panama.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Papua New Guinea",
+	"answer" :{
+		"neutral":"Port Moresby.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Paraguay",
+	"answer" :{
+		"neutral":"Asuncion.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Paris",
+	"answer" :{
+		"neutral":"is this a trick question?    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Pennsylvania",
+	"answer" :{
+		"neutral":"Harrisburg."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Peru",
+	"answer" :{
+		"neutral":"Lima is the capital of Peru.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Philippines",
+	"answer" :{
+		"neutral":"Manila.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Pitcairn islands",
+	"answer" :{
+		"neutral":"Adamstown.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Poland",
+	"answer" :{
+		"neutral":"Warsaw.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Portugal",
+	"answer" :{
+		"neutral":"Lisbon."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Puerto Rico",
+	"answer" :{
+		"neutral":"San Juan.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Qatar",
+	"answer" :{
+		"neutral":"Doha.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Reunion",
+	"answer" :{
+		"neutral":"Saint-Denis.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Rhode island",
+	"answer" :{
+		"neutral":"Providence."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Romania",
+	"answer" :{
+		"neutral":"Bucharest.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Russia",
+	"answer" :{
+		"neutral":"Moscow.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Rwanda",
+	"answer" :{
+		"neutral":"Kigali.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Sacramento",
+	"answer" :{
+		"neutral":"That is a trick question.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Saint Helena",
+	"answer" :{
+		"neutral":"Jamestown.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Saint Kitts And Nevis",
+	"answer" :{
+		"neutral":"Basseterre.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Saint Lucia",
+	"answer" :{
+		"neutral":"Castries.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Saint Pierre *",
+	"answer" :{
+		"neutral":"Saint-Pierre.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Saint Vincent *",
+	"answer" :{
+		"neutral":"Kingstown.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ San Marino",
+	"answer" :{
+		"neutral":"San Marino.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Sao Tome *",
+	"answer" :{
+		"neutral":"Sao Tome.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Saudi Arabia",
+	"answer" :{
+		"neutral":"Riyadh, Saudi Arabia.      "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Saudia Arabia",
+	"answer" :{
+		"neutral":"Riyadh."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Senegal",
+	"answer" :{
+		"neutral":"Dakar.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Serbia *",
+	"answer" :{
+		"neutral":"Belgrade.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Seychelles",
+	"answer" :{
+		"neutral":"Victoria.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Sierra Leone",
+	"answer" :{
+		"neutral":"Freetown.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Singapore",
+	"answer" :{
+		"neutral":"Singapore.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Slovakia",
+	"answer" :{
+		"neutral":"Bratislava.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Slovenia",
+	"answer" :{
+		"neutral":"Ljubljana.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Solomon islands",
+	"answer" :{
+		"neutral":"Honiara.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Somalia",
+	"answer" :{
+		"neutral":"Mogadishu.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ South Africa",
+	"answer" :{
+		"neutral":"Pretoria {administrative}; Cape Town {legislative}; Bloemfontein {judicial}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ South Carolina",
+	"answer" :{
+		"neutral":"Columbia."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ South Dakota",
+	"answer" :{
+		"neutral":"Pierre."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ South Georgia *",
+	"answer" :{
+		"neutral":"none; Grytviken on South Georgia is the garrison town.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ South Korea",
+	"answer" :{
+		"neutral":"Seoul.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Spain",
+	"answer" :{
+		"neutral":"The capital of Spain is Madrid."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Sri Lanka",
+	"answer" :{
+		"neutral":"Colombo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Sudan",
+	"answer" :{
+		"neutral":"Khartoum.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Suriname",
+	"answer" :{
+		"neutral":"Paramaribo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Svalbard",
+	"answer" :{
+		"neutral":"Longyearbyen.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Swaziland",
+	"answer" :{
+		"neutral":"Mbabane {administrative}; Lobamba {legislative}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Sweden",
+	"answer" :{
+		"neutral":"I think the capital of Sweden is Stockholm."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Switzerland",
+	"answer" :{
+		"neutral":"Bern.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Syria",
+	"answer" :{
+		"neutral":"Damascus, Syria."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Taiwan",
+	"answer" :{
+		"neutral":"Taipei.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Tajikistan",
+	"answer" :{
+		"neutral":"Dushanbe.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Tanzania",
+	"answer" :{
+		"neutral":"Dar es Salaam.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Tennessee",
+	"answer" :{
+		"neutral":"Nashville."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Texas",
+	"answer" :{
+		"neutral":"Austin."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Thailand",
+	"answer" :{
+		"neutral":"Bangkok.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ The Bahamas",
+	"answer" :{
+		"neutral":"Nassau.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ The Gambia",
+	"answer" :{
+		"neutral":"Banjul.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ The isle Of Man",
+	"answer" :{
+		"neutral":"Douglas.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ The Netherlands",
+	"answer" :{
+		"neutral":"The Hague."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ The United States",
+	"answer" :{
+		"neutral":"The U.S. capital is Washington, D. C."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ The Us",
+	"answer" :{
+		"neutral":"Washington, D. C.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Togo",
+	"answer" :{
+		"neutral":"Lome.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Tokelau",
+	"answer" :{
+		"neutral":"none; each atoll has its own administrative center.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Tonga",
+	"answer" :{
+		"neutral":"Nuku'alofa.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Trinidad And Tobago",
+	"answer" :{
+		"neutral":"Port-of-Spain.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Tromelin island",
+	"answer" :{
+		"neutral":"none; administered by France from Reunion.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Tunisia",
+	"answer" :{
+		"neutral":"Tunis.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Turkey",
+	"answer" :{
+		"neutral":"Ankara is the capital of Turkey.     "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Turkmenistan",
+	"answer" :{
+		"neutral":"Ashgabat.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Turks *",
+	"answer" :{
+		"neutral":"Grand Turk.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Tuvalu",
+	"answer" :{
+		"neutral":"Funafuti.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Uganda",
+	"answer" :{
+		"neutral":"Kampala.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Ukraine",
+	"answer" :{
+		"neutral":"Kiev {Kyyiv}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ United Arab *",
+	"answer" :{
+		"neutral":"Abu Dhabi.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ United Kingdom",
+	"answer" :{
+		"neutral":"London.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ United States",
+	"answer" :{
+		"neutral":"Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Uruguay",
+	"answer" :{
+		"neutral":"Montevideo.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Usa",
+	"answer" :{
+		"neutral":"Washington."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Utah",
+	"answer" :{
+		"neutral":"Salt Lake City."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Uzbekistan",
+	"answer" :{
+		"neutral":"Tashkent {Toshkent}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Vanuatu",
+	"answer" :{
+		"neutral":"Port-Vila.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Vatican *",
+	"answer" :{
+		"neutral":"Vatican City.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Venezuela",
+	"answer" :{
+		"neutral":"Caracas.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Vermont",
+	"answer" :{
+		"neutral":"Montpelier."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Vietnam",
+	"answer" :{
+		"neutral":"Hanoi.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Virgin islands",
+	"answer" :{
+		"neutral":"Charlotte Amalie.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Virginia",
+	"answer" :{
+		"neutral":"Richmond."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Wake island",
+	"answer" :{
+		"neutral":"none; administered from Washington, Dc.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Wallis *",
+	"answer" :{
+		"neutral":"Mata-Utu {on Ile Uvea}.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Washington",
+	"answer" :{
+		"neutral":"Olympia."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ West Virginia",
+	"answer" :{
+		"neutral":"Charleston."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Western Sahara",
+	"answer" :{
+		"neutral":"none.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Western Samoa",
+	"answer" :{
+		"neutral":"Apia.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Wisconsin",
+	"answer" :{
+		"neutral":"Madison."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Wyoming",
+	"answer" :{
+		"neutral":"Cheyenne ."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Yemen",
+	"answer" :{
+		"neutral":"Sanaa.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Yugoslavia",
+	"answer" :{
+		"neutral":"Belgrade."
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Zaire",
+	"answer" :{
+		"neutral":"Kinshasa.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Zambia",
+	"answer" :{
+		"neutral":"Lusaka.       "
+		}
+	},  
+	{
+	"pattern" :"What is The Capital _ Zimbabwe",
+	"answer" :{
+		"neutral":"The capital is called Harare.    "
+		}
+	},  
+	{
+	"pattern" :"What is The Population Of The Usa",
+	"answer" :{
+		"neutral":"The United States has about 300 million people."
+		}
+	},  
+	{
+	"pattern" :"What is The Population Of Usa",
+	"answer" :{
+		"neutral":"About 300 million people."
+		}
+	},  
+	{
+	"pattern" :"What is Usa",
+	"answer" :{
+		"neutral":"United States of America"
+		}
+	},  
+	{
+	"pattern" :"Where In Bethlehem",
+	"answer" :{
+		"neutral":"Department of Electrical Engineering and Computer Science, Lehigh University."
+		}
+	},  
+	{
+	"pattern" :"Where In California",
+	"answer" :{
+		"neutral":"I am in .  Where are you?"
+		}
+	},  
+	{
+	"pattern" :"Where In Canada",
+	"answer" :{
+		"neutral":"Nova Scotia and Vancouver."
+		}
+	},  
+	{
+	"pattern" :"Where is * California",
+	"answer" :{
+		"neutral":"Somewhere in California, I presume?"
+		}
+	},  
+	{
+	"pattern" :"Where is * Virginia",
+	"answer" :{
+		"neutral":"Um, in Virgina somewhere?"
+		}
+	},  
+	{
+	"pattern" :"Where is Acapulco",
+	"answer" :{
+		"neutral":"    is a city on the Pacific coast of Mexico."
+		}
+	},  
+	{
+	"pattern" :"Where is Adelaide",
+	"answer" :{
+		"neutral":"    is a city in southern Australia."
+		}
+	},  
+	{
+	"pattern" :"Where is Afghanistan",
+	"answer" :{
+		"neutral":"Southern Asia, north of Pakistan.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Alabama",
+	"answer" :{
+		"neutral":"    is a southern state between Mississippi and Georgia."
+		}
+	},  
+	{
+	"pattern" :"Where is Alamo",
+	"answer" :{
+		"neutral":"    is in San Antonio, Texas."
+		}
+	},  
+	{
+	"pattern" :"Where is Alaska",
+	"answer" :{
+		"neutral":"    is in the northwest corner of North America, between Russia and Canada."
+		}
+	},  
+	{
+	"pattern" :"Where is Albania",
+	"answer" :{
+		"neutral":"    is on the Adriatic sea, bordering Greece and the former Yugoslavia."
+		}
+	},  
+	{
+	"pattern" :"Where is Albert Einstein",
+	"answer" :{
+		"neutral":"    passed away."
+		}
+	},  
+	{
+	"pattern" :"Where is Albuquerque",
+	"answer" :{
+		"neutral":"    is a city in New Mexico."
+		}
+	},  
+	{
+	"pattern" :"Where is Algeria",
+	"answer" :{
+		"neutral":"Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is America",
+	"answer" :{
+		"neutral":"    could refer to North and South America, or to the United States."
+		}
+	},  
+	{
+	"pattern" :"Where is American Samoa",
+	"answer" :{
+		"neutral":"Oceania, group of islands in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Amsterdam",
+	"answer" :{
+		"neutral":"    is a city in the Netherlands."
+		}
+	},  
+	{
+	"pattern" :"Where is Andorra",
+	"answer" :{
+		"neutral":"Southwestern Europe, between France and Spain.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Angola",
+	"answer" :{
+		"neutral":"Southern Africa, bordering the South Atlantic Ocean, between Namibia and Zaire.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Anguilla",
+	"answer" :{
+		"neutral":"Caribbean, island in the Caribbean Sea, east of Puerto Rico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Ankara",
+	"answer" :{
+		"neutral":"    is a city in Turkey."
+		}
+	},  
+	{
+	"pattern" :"Where is Antarctica",
+	"answer" :{
+		"neutral":"    is the continent at the south pole."
+		}
+	},  
+	{
+	"pattern" :"Where is Antigua And Barbuda",
+	"answer" :{
+		"neutral":"Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east-southeast of Puerto Rico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Arctic Ocean",
+	"answer" :{
+		"neutral":"body of water mostly north of the Arctic Circle.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Arcturus",
+	"answer" :{
+		"neutral":"    is a star far from here."
+		}
+	},  
+	{
+	"pattern" :"Where is Area 51",
+	"answer" :{
+		"neutral":"     It is between Area 50 and Area 52."
+		}
+	},  
+	{
+	"pattern" :"Where is Argentina",
+	"answer" :{
+		"neutral":"    is a country in South America."
+		}
+	},  
+	{
+	"pattern" :"Where is Arizona",
+	"answer" :{
+		"neutral":"    is in the south western United States, bordering California, Nevada, Utah and New Mexico."
+		}
+	},  
+	{
+	"pattern" :"Where is Arkansas",
+	"answer" :{
+		"neutral":"    is a southern State on the west bank of the Missisipi river."
+		}
+	},  
+	{
+	"pattern" :"Where is Armenia",
+	"answer" :{
+		"neutral":"Southwestern Asia, east of Turkey.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Aruba",
+	"answer" :{
+		"neutral":"    is an island in the Netherlands Antilles, near South America."
+		}
+	},  
+	{
+	"pattern" :"Where is Ashmore And Cartier islands",
+	"answer" :{
+		"neutral":"Southeastern Asia, islands in the Indian Ocean, northwest of Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Asia",
+	"answer" :{
+		"neutral":"    is a the largest continent."
+		}
+	},  
+	{
+	"pattern" :"Where is Athens",
+	"answer" :{
+		"neutral":"    is a city in Greece."
+		}
+	},  
+	{
+	"pattern" :"Where is Atlanta",
+	"answer" :{
+		"neutral":"It the capital of Georgia.      "
+		}
+	},  
+	{
+	"pattern" :"Where is Atlantic Ocean",
+	"answer" :{
+		"neutral":"body of water between Africa, Europe, Antarctica, and the Western Hemisphere.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Atlantis",
+	"answer" :{
+		"neutral":"    may never have existed."
+		}
+	},  
+	{
+	"pattern" :"Where is Austin",
+	"answer" :{
+		"neutral":"    is a city in Texas."
+		}
+	},  
+	{
+	"pattern" :"Where is Australia",
+	"answer" :{
+		"neutral":"    is a large island-continent in  the southern hemishphere."
+		}
+	},  
+	{
+	"pattern" :"Where is Austria",
+	"answer" :{
+		"neutral":"Central Europe, north of Italy.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Azerbaijan",
+	"answer" :{
+		"neutral":"Southwestern Asia, bordering the Caspian Sea, between Iran and Russia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Bahrain",
+	"answer" :{
+		"neutral":"Middle East, archipelago in the Persian Gulf, east of Saudi Arabia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Baker island",
+	"answer" :{
+		"neutral":"Oceania, atoll in the North Pacific Ocean, about one-half of the way from Hawaii to Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Bangladesh",
+	"answer" :{
+		"neutral":"    is part of the Indian subcontinent, on the eastern side."
+		}
+	},  
+	{
+	"pattern" :"Where is Barbados",
+	"answer" :{
+		"neutral":"Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, northeast of Venezuela.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Barcelona",
+	"answer" :{
+		"neutral":"    is a city in Spain."
+		}
+	},  
+	{
+	"pattern" :"Where is Bassas Da India",
+	"answer" :{
+		"neutral":"Southern Africa, islands in the southern Mozambique Channel, about one-half of the way from Madagascar to Mozambique.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Belarus",
+	"answer" :{
+		"neutral":"Eastern Europe, east of Poland.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Belgium",
+	"answer" :{
+		"neutral":"    is a country in western Europe, between France, Germany and Holland."
+		}
+	},  
+	{
+	"pattern" :"Where is Belize",
+	"answer" :{
+		"neutral":"Middle America, bordering the Caribbean Sea, between Guatemala and Mexico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Benin",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Nigeria and Togo.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Bergen",
+	"answer" :{
+		"neutral":"    is a city in Germany and also in Norway."
+		}
+	},  
+	{
+	"pattern" :"Where is Berkeley",
+	"answer" :{
+		"neutral":"    is in northern California, across the bay from San Francisco."
+		}
+	},  
+	{
+	"pattern" :"Where is Berlin",
+	"answer" :{
+		"neutral":"    is in eastern Germany."
+		}
+	},  
+	{
+	"pattern" :"Where is Bermuda",
+	"answer" :{
+		"neutral":"North America, group of islands in the North Atlantic Ocean, east of North Carolina {Us}.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Bethlehem",
+	"answer" :{
+		"neutral":"Bethlehem, Pennsylvania is located in the northeastern area of the state, about 90 miles from Philadelphia."
+		}
+	},  
+	{
+	"pattern" :"Where is Bhutan",
+	"answer" :{
+		"neutral":"Southern Asia, between China and India.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Bilbao",
+	"answer" :{
+		"neutral":"    is a city on the north coast of Spain."
+		}
+	},  
+	{
+	"pattern" :"Where is Bolivia",
+	"answer" :{
+		"neutral":"    is a land-locked country in South America,"
+		}
+	},  
+	{
+	"pattern" :"Where is Borneo",
+	"answer" :{
+		"neutral":"    is an island in Asia, divided between Maylasia and Indonesia."
+		}
+	},  
+	{
+	"pattern" :"Where is Bosnia And Herzegovina",
+	"answer" :{
+		"neutral":"Southeastern Europe, bordering the Adriatic Sea and Croatia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Boston",
+	"answer" :{
+		"neutral":"    is a city in Massachusettes."
+		}
+	},  
+	{
+	"pattern" :"Where is Botswana",
+	"answer" :{
+		"neutral":"Southern Africa, north of South Africa.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Bouvet island",
+	"answer" :{
+		"neutral":"Southern Africa, island in the South Atlantic Ocean, south-southwest of the Cape of Good Hope {South Africa}.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Brazil",
+	"answer" :{
+		"neutral":"Brazil is in South America."
+		}
+	},  
+	{
+	"pattern" :"Where is Brisbane",
+	"answer" :{
+		"neutral":"is that a city in California?"
+		}
+	},  
+	{
+	"pattern" :"Where is Bristol",
+	"answer" :{
+		"neutral":"    is a city on the west coast of England."
+		}
+	},  
+	{
+	"pattern" :"Where is Britain",
+	"answer" :{
+		"neutral":"On an island off the coast of Europe.    "
+		}
+	},  
+	{
+	"pattern" :"Where is British Indian Ocean Territory",
+	"answer" :{
+		"neutral":"Southern Asia, archipelago in the Indian Ocean, about one-half the way from Africa to Indonesia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is British Virgin islands",
+	"answer" :{
+		"neutral":"Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Brunei",
+	"answer" :{
+		"neutral":"Southeastern Asia, bordering the South China Sea and Malaysia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Brussels",
+	"answer" :{
+		"neutral":"    is a city in Belgium."
+		}
+	},  
+	{
+	"pattern" :"Where is Budapest",
+	"answer" :{
+		"neutral":"    is a city in Hungary, on the Danube river."
+		}
+	},  
+	{
+	"pattern" :"Where is Bulgaria",
+	"answer" :{
+		"neutral":"    is a country in the Balkans."
+		}
+	},  
+	{
+	"pattern" :"Where is Burkina Faso",
+	"answer" :{
+		"neutral":"Western Africa, north of Ghana.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Burma",
+	"answer" :{
+		"neutral":"Southeastern Asia, bordering the Andaman Sea and the Bay of Bengal, between Bangladesh and Thailand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Burundi",
+	"answer" :{
+		"neutral":"Central Africa, east of Zaire.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Calgary",
+	"answer" :{
+		"neutral":"    is a city in Alberta, Canda."
+		}
+	},  
+	{
+	"pattern" :"Where is California",
+	"answer" :{
+		"neutral":"    is on the Pacific coast of North America."
+		}
+	},  
+	{
+	"pattern" :"Where is Cambodia",
+	"answer" :{
+		"neutral":"Southeastern Asia, bordering the Gulf of Thailand, between Thailand and Vietnam.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Cambridge",
+	"answer" :{
+		"neutral":"    is a city in Massachusetts, also in England."
+		}
+	},  
+	{
+	"pattern" :"Where is Cameroon",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Equatorial Guinea and Nigeria.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Canada",
+	"answer" :{
+		"neutral":"Canada occupies most of North America."
+		}
+	},  
+	{
+	"pattern" :"Where is Canberra",
+	"answer" :{
+		"neutral":"    is a city in Australia, between Sydney and Melbourne."
+		}
+	},  
+	{
+	"pattern" :"Where is Cape Verde",
+	"answer" :{
+		"neutral":"Western Africa, group of islands in the North Atlantic Ocean, west of Senegal.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Carnegie Mellon",
+	"answer" :{
+		"neutral":"Carnegie Mellon is located in Pittsburgh, Pennsylvania."
+		}
+	},  
+	{
+	"pattern" :"Where is Carthage",
+	"answer" :{
+		"neutral":"    is the ancient name for Tunisia."
+		}
+	},  
+	{
+	"pattern" :"Where is Cayman islands",
+	"answer" :{
+		"neutral":"Caribbean, island group in Caribbean Sea, nearly one-half of the way from Cuba to Honduras.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Central African Republic",
+	"answer" :{
+		"neutral":"Central Africa, north of Zaire.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Chad",
+	"answer" :{
+		"neutral":"Central Africa, south of Libya.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Charlotte",
+	"answer" :{
+		"neutral":"    is in North Carolina."
+		}
+	},  
+	{
+	"pattern" :"Where is Cheddar Cheese From",
+	"answer" :{
+		"neutral":"England."
+		}
+	},  
+	{
+	"pattern" :"Where is Chicago",
+	"answer" :{
+		"neutral":"    is a large city in Illinois, on lake Michigan."
+		}
+	},  
+	{
+	"pattern" :"Where is Chile",
+	"answer" :{
+		"neutral":"Southern South America, bordering the South Atlantic Ocean and South Pacific Ocean, between Argentina and Peru.       "
+		}
+	},  
+	{
+	"pattern" :"Where is China",
+	"answer" :{
+		"neutral":"    is a large nation in Asia."
+		}
+	},  
+	{
+	"pattern" :"Where is Christmas island",
+	"answer" :{
+		"neutral":"Southeastern Asia, island in the Indian Ocean, south of Indonesia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Cincinnati",
+	"answer" :{
+		"neutral":"    is a large city in Ohio."
+		}
+	},  
+	{
+	"pattern" :"Where is Clipperton island",
+	"answer" :{
+		"neutral":"Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Cocos islands",
+	"answer" :{
+		"neutral":"Southeastern Asia, group of islands in the Indian Ocean, south of Indonesia, about one-half of the way from Australia to Sri Lanka.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Colombia",
+	"answer" :{
+		"neutral":"    is a country in South America."
+		}
+	},  
+	{
+	"pattern" :"Where is Columbus",
+	"answer" :{
+		"neutral":"    is a city in Ohio."
+		}
+	},  
+	{
+	"pattern" :"Where is Comoros",
+	"answer" :{
+		"neutral":"Southern Africa, group of islands in the Mozambique Channel, about two-thirds of the way between northern Madagascar and northern Mozambique.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Congo",
+	"answer" :{
+		"neutral":"Western Africa, bordering the South Atlantic Ocean, between Angola and Gabon.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Connecticut",
+	"answer" :{
+		"neutral":"    is a New England state between New York, Massaschusetts and Rhode island."
+		}
+	},  
+	{
+	"pattern" :"Where is Cook islands",
+	"answer" :{
+		"neutral":"Oceania, group of islands in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Copenhagen *",
+	"answer" :{
+		"neutral":"    is a city in Denmark."
+		}
+	},  
+	{
+	"pattern" :"Where is Copenhagen",
+	"answer" :{
+		"neutral":"    is a city in Denmark."
+		}
+	},  
+	{
+	"pattern" :"Where is Coral Sea islands",
+	"answer" :{
+		"neutral":"Oceania, islands in the Coral Sea, northeast of Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Cornwall",
+	"answer" :{
+		"neutral":"    is a city in England."
+		}
+	},  
+	{
+	"pattern" :"Where is Corona",
+	"answer" :{
+		"neutral":"    is a suburb of Los Angeles."
+		}
+	},  
+	{
+	"pattern" :"Where is Costa Rica",
+	"answer" :{
+		"neutral":"Middle America, bordering both the Caribbean Sea and the North Pacific Ocean, between Nicaragua and Panama.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Cote D Ivoire",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Ghana and Liberia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Croatia",
+	"answer" :{
+		"neutral":"    is part of the former Yugoslavia, also bordering on Hungary."
+		}
+	},  
+	{
+	"pattern" :"Where is Cuba",
+	"answer" :{
+		"neutral":"    is an island off the coast of Florida."
+		}
+	},  
+	{
+	"pattern" :"Where is Cupertino",
+	"answer" :{
+		"neutral":"    is in Silicon Valley."
+		}
+	},  
+	{
+	"pattern" :"Where is Cyprus",
+	"answer" :{
+		"neutral":"Middle East, island in the Mediterranean Sea, south of Turkey.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Czech Republic",
+	"answer" :{
+		"neutral":"Central Europe, southeast of Germany.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Czechoslovakia",
+	"answer" :{
+		"neutral":"In the past.  That country no longer exists."
+		}
+	},  
+	{
+	"pattern" :"Where is Dallas",
+	"answer" :{
+		"neutral":"    is a large city in Texas."
+		}
+	},  
+	{
+	"pattern" :"Where is Delhi",
+	"answer" :{
+		"neutral":"    is a large city in India."
+		}
+	},  
+	{
+	"pattern" :"Where is Denmark",
+	"answer" :{
+		"neutral":"    is a country in western Europe, between Germany and Norway."
+		}
+	},  
+	{
+	"pattern" :"Where is Denver",
+	"answer" :{
+		"neutral":"    is a city in Colorado."
+		}
+	},  
+	{
+	"pattern" :"Where is Djibouti",
+	"answer" :{
+		"neutral":"Eastern Africa, bordering the Gulf of Aden and the Red Sea, between Eritrea and Somalia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Dominica",
+	"answer" :{
+		"neutral":"Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, about one-half of the way from Puerto Rico to Trinidad and Tobago.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Dominican Republic",
+	"answer" :{
+		"neutral":"Caribbean, eastern two-thirds of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, east of Haiti.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Dusseldorf",
+	"answer" :{
+		"neutral":"    is a large city in western Germany."
+		}
+	},  
+	{
+	"pattern" :"Where is Earth",
+	"answer" :{
+		"neutral":"    is the third planet from the Sun."
+		}
+	},  
+	{
+	"pattern" :"Where is Ecuador",
+	"answer" :{
+		"neutral":"Western South America, bordering the Pacific Ocean at the Equator, between Colombia and Peru.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Edmonton",
+	"answer" :{
+		"neutral":"    is a large city in Alberta."
+		}
+	},  
+	{
+	"pattern" :"Where is Egypt",
+	"answer" :{
+		"neutral":"    is a country in north east Africa."
+		}
+	},  
+	{
+	"pattern" :"Where is Einstein",
+	"answer" :{
+		"neutral":"    passed away some time ago."
+		}
+	},  
+	{
+	"pattern" :"Where is El Salvador",
+	"answer" :{
+		"neutral":"Middle America, bordering the North Pacific Ocean, between Guatemala and Honduras.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Elvis",
+	"answer" :{
+		"neutral":"    passed away some time ago."
+		}
+	},  
+	{
+	"pattern" :"Where is England",
+	"answer" :{
+		"neutral":"    is located on a small island off the coast of Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Equatorial Guinea",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Cameroon and Gabon.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Eritrea",
+	"answer" :{
+		"neutral":"Eastern Africa, bordering the Red Sea, between Djibouti and Sudan.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Estonia",
+	"answer" :{
+		"neutral":"Eastern Europe, bordering the Baltic Sea and Gulf of Finland, between Latvia and Russia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Ethiopia",
+	"answer" :{
+		"neutral":"Eastern Africa, west of Somalia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Europa island",
+	"answer" :{
+		"neutral":"Southern Africa, island in the Mozambique Channel, about one-half of the way from southern Madagascar to southern Mozambique.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Europe",
+	"answer" :{
+		"neutral":"Europe is between Asia and America."
+		}
+	},  
+	{
+	"pattern" :"Where is Falkland islands",
+	"answer" :{
+		"neutral":"Southern South America, islands in the South Atlantic Ocean, east of southern Argentina.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Faroe islands",
+	"answer" :{
+		"neutral":"Northern Europe, island group between the Norwegian Sea and the north Atlantic Ocean, about one-half of the way from Iceland to Norway.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Fiji",
+	"answer" :{
+		"neutral":"Oceania, island group in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Finland",
+	"answer" :{
+		"neutral":"    is a country in eastern europe, bordering Sweden and Russia."
+		}
+	},  
+	{
+	"pattern" :"Where is Florida",
+	"answer" :{
+		"neutral":"    is in the southeast United States, extending on a large peninsula."
+		}
+	},  
+	{
+	"pattern" :"Where is France",
+	"answer" :{
+		"neutral":"    is a country between  Germany and Spain."
+		}
+	},  
+	{
+	"pattern" :"Where is Frankfurt",
+	"answer" :{
+		"neutral":"    is a large city in western Germany."
+		}
+	},  
+	{
+	"pattern" :"Where is French Guiana",
+	"answer" :{
+		"neutral":"Northern South America, bordering the North Atlantic Ocean, between Brazil and Suriname.       "
+		}
+	},  
+	{
+	"pattern" :"Where is French Polynesia",
+	"answer" :{
+		"neutral":"Oceania, archipelago in the South Pacific Ocean, about one-half of the way from South America to Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is French Southern And Antarctic Lands",
+	"answer" :{
+		"neutral":"Southern Africa, islands in the southern Indian Ocean, about equidistant between Africa, Antarctica, and Australia; note - French Southern and Antarctic Lands includes Ile Amsterdam, Ile Saint-Paul, Iles Crozet, and Iles Kerguelen in the southern Indian Ocean, along with the French-claimed sector of Antarctica, Adelie Land; the Us does not recognize the French claim to Adelie Land.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Fresno",
+	"answer" :{
+		"neutral":"    is a small city in California."
+		}
+	},  
+	{
+	"pattern" :"Where is Gabon",
+	"answer" :{
+		"neutral":"Western Africa, bordering the Atlantic Ocean at the Equator, between Congo and Equatorial Guinea.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Gaza Strip",
+	"answer" :{
+		"neutral":"Middle East, bordering the Mediterranean Sea, between Egypt and israel.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Gaza",
+	"answer" :{
+		"neutral":"A part of Palestine on the Mediterranian sea."
+		}
+	},  
+	{
+	"pattern" :"Where is Georgia",
+	"answer" :{
+		"neutral":"    is a southern state, on the Atlantic ocean, north of Florida."
+		}
+	},  
+	{
+	"pattern" :"Where is Germany",
+	"answer" :{
+		"neutral":"    is a country right in the middle of Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Ghana",
+	"answer" :{
+		"neutral":"    is a nation in west Africa."
+		}
+	},  
+	{
+	"pattern" :"Where is Gibraltar",
+	"answer" :{
+		"neutral":"Southwestern Europe, bordering the Strait of Gibraltar, which links the Mediterranean Sea and the North Atlantic Ocean, on the southern coast of Spain.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Glorioso islands",
+	"answer" :{
+		"neutral":"Southern Africa, group of islands in the Indian Ocean, northwest of Madagascar.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Greece",
+	"answer" :{
+		"neutral":"    is a country in the Balkans."
+		}
+	},  
+	{
+	"pattern" :"Where is Greenland",
+	"answer" :{
+		"neutral":"Northern North America, island between the Arctic Ocean and the North Atlantic Ocean, northeast of Canada.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Grenada",
+	"answer" :{
+		"neutral":"Caribbean, island in the Caribbean Sea, north of Trinidad and Tobago.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Guadeloupe",
+	"answer" :{
+		"neutral":"Caribbean, islands in the eastern Caribbean Sea, southeast of Puerto Rico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Guam",
+	"answer" :{
+		"neutral":"Oceania, island in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Guatemala",
+	"answer" :{
+		"neutral":"    is a country in central America."
+		}
+	},  
+	{
+	"pattern" :"Where is Guernsey",
+	"answer" :{
+		"neutral":"Western Europe, islands in the English Channel, northwest of France.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Guinea Bissau",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Guinea and Senegal.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Guinea",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Sierra Leone.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Guyana",
+	"answer" :{
+		"neutral":"Northern South America, bordering the North Atlantic Ocean, between Suriname and Venezuela.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Hades",
+	"answer" :{
+		"neutral":"    is Hell."
+		}
+	},  
+	{
+	"pattern" :"Where is Haiti",
+	"answer" :{
+		"neutral":"Caribbean, western one-third of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, west of the Dominican Republic.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Hamburg",
+	"answer" :{
+		"neutral":"    is a large city in western Germany."
+		}
+	},  
+	{
+	"pattern" :"Where is Hawaii",
+	"answer" :{
+		"neutral":"    is an island chain in the middle of the Pacific ocean."
+		}
+	},  
+	{
+	"pattern" :"Where is He From",
+	"answer" :{
+		"neutral":"   ?  I think he is from the planet Earth."
+		}
+	},  
+	{
+	"pattern" :"Where is He",
+	"answer" :{
+		"neutral":"I think he is in California now."
+		}
+	},  
+	{
+	"pattern" :"Where is Heard island And Mcdonald islands",
+	"answer" :{
+		"neutral":"Southern Africa, islands in the Indian Ocean, about two-thirds of the way from Madagascar to Antarctica.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Heaven",
+	"answer" :{
+		"neutral":"All around us."
+		}
+	},  
+	{
+	"pattern" :"Where is Here",
+	"answer" :{
+		"neutral":"Here is ."
+		}
+	},  
+	{
+	"pattern" :"Where is Hoffa",
+	"answer" :{
+		"neutral":"We may never know."
+		}
+	},  
+	{
+	"pattern" :"Where is Holland",
+	"answer" :{
+		"neutral":"    is a country in western Europe, next to Germany and Belgium."
+		}
+	},  
+	{
+	"pattern" :"Where is Hollywood",
+	"answer" :{
+		"neutral":"    is a small part of Los Angeles, California."
+		}
+	},  
+	{
+	"pattern" :"Where is Holy See",
+	"answer" :{
+		"neutral":"Southern Europe, an enclave of Rome {Italy}.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Honduras",
+	"answer" :{
+		"neutral":"Middle America, bordering the Caribbean Sea, between Guatemala and Nicaragua and bordering the North Pacific Ocean, between El Salvador and Nicaragua.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Hong Kong",
+	"answer" :{
+		"neutral":"    is a city in China."
+		}
+	},  
+	{
+	"pattern" :"Where is Houston",
+	"answer" :{
+		"neutral":"    is a city in Texas."
+		}
+	},  
+	{
+	"pattern" :"Where is Howland island",
+	"answer" :{
+		"neutral":"Oceania, island in the North Pacific Ocean, about one-half of the way from Hawaii to Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Hull",
+	"answer" :{
+		"neutral":"    is a town in England."
+		}
+	},  
+	{
+	"pattern" :"Where is Hungary",
+	"answer" :{
+		"neutral":"    is a country in central Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Iceland",
+	"answer" :{
+		"neutral":"    is an island in the north Atlantic ocean."
+		}
+	},  
+	{
+	"pattern" :"Where is Idaho",
+	"answer" :{
+		"neutral":"    is in the western United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Illinois",
+	"answer" :{
+		"neutral":"    is in the midwestern United States."
+		}
+	},  
+	{
+	"pattern" :"Where is India",
+	"answer" :{
+		"neutral":"    is a giant country in southern Asia."
+		}
+	},  
+	{
+	"pattern" :"Where is Indian Ocean",
+	"answer" :{
+		"neutral":"body of water between Africa, Antarctica, Asia, and Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Indiana",
+	"answer" :{
+		"neutral":"    is in the midwestern United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Indianapolis",
+	"answer" :{
+		"neutral":"    is a large city in Indiana."
+		}
+	},  
+	{
+	"pattern" :"Where is Indonesia",
+	"answer" :{
+		"neutral":"    is an island nation in southeast Asia."
+		}
+	},  
+	{
+	"pattern" :"Where is Iowa",
+	"answer" :{
+		"neutral":"    is in the midwest, between the Mississipi and Missouri rivers."
+		}
+	},  
+	{
+	"pattern" :"Where is Iran",
+	"answer" :{
+		"neutral":"    is in the middle east, on the Persian Gulf."
+		}
+	},  
+	{
+	"pattern" :"Where is Iraq",
+	"answer" :{
+		"neutral":"    is in the middle east, on the Persian Gulf."
+		}
+	},  
+	{
+	"pattern" :"Where is Ireland",
+	"answer" :{
+		"neutral":"    is located on a small island off the coast of Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is israel",
+	"answer" :{
+		"neutral":"    is located on the Mediterranian sea, in the Middle East."
+		}
+	},  
+	{
+	"pattern" :"Where is istanbul",
+	"answer" :{
+		"neutral":"    is a city in Turkey, formerly Constantinople."
+		}
+	},  
+	{
+	"pattern" :"Where is It",
+	"answer" :{
+		"neutral":"It depends on what it refers to."
+		}
+	},  
+	{
+	"pattern" :"Where is Italy",
+	"answer" :{
+		"neutral":"    is in the southern part of Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Jakarta",
+	"answer" :{
+		"neutral":"Jakarta, Indonesia."
+		}
+	},  
+	{
+	"pattern" :"Where is Jamaica",
+	"answer" :{
+		"neutral":"Caribbean, island in the Caribbean Sea, south of Cuba.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Jan Mayen",
+	"answer" :{
+		"neutral":"Northern Europe, island between the Greenland Sea and the Norwegian Sea, northeast of Iceland.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Japan",
+	"answer" :{
+		"neutral":"    is an island nation on the eastern side of Asia."
+		}
+	},  
+	{
+	"pattern" :"Where is Jarvis island",
+	"answer" :{
+		"neutral":"Oceania, island in the South Pacific Ocean, about one-half of the way from Hawaii to the Cook islands.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Jersey",
+	"answer" :{
+		"neutral":"Western Europe, island in the English Channel, northwest of France.       "
+		}
+	},   
+	{
+	"pattern" :"Where is Johnston Atoll",
+	"answer" :{
+		"neutral":"Oceania, atoll in the North Pacific Ocean, about one-third of the way from Hawaii to the Marshall islands.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Jordan",
+	"answer" :{
+		"neutral":"Middle East, northwest of Saudi Arabia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Juan De Nova island",
+	"answer" :{
+		"neutral":"Southern Africa, island in the Mozambique Channel, about one-third of the way between Madagascar and Mozambique.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Julia",
+	"answer" :{
+		"neutral":"I don't think she is online right now."
+		}
+	},  
+	{
+	"pattern" :"Where is Jupiter",
+	"answer" :{
+		"neutral":"    is the fifth planet from the sun."
+		}
+	},  
+	{
+	"pattern" :"Where is Kalamazoo",
+	"answer" :{
+		"neutral":"    is a city in Michigan."
+		}
+	},  
+	{
+	"pattern" :"Where is Kansas",
+	"answer" :{
+		"neutral":"    is in the midwestern United States.W"
+		}
+	},  
+	{
+	"pattern" :"Where is Kashmir",
+	"answer" :{
+		"neutral":"    is a disputed area between India and Pakistan."
+		}
+	},  
+	{
+	"pattern" :"Where is Kazakstan",
+	"answer" :{
+		"neutral":"Central Asia, northwest of China.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Kentucky",
+	"answer" :{
+		"neutral":"    is on the south bank of the Ohio river."
+		}
+	},  
+	{
+	"pattern" :"Where is Kenya",
+	"answer" :{
+		"neutral":"    is a country in central Africa."
+		}
+	},  
+	{
+	"pattern" :"Where is Kingman Reef",
+	"answer" :{
+		"neutral":"Oceania, reef in the North Pacific Ocean, about one-half of the way from Hawaii to American Samoa.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Kiribati",
+	"answer" :{
+		"neutral":"Oceania, group of islands in the Pacific Ocean, straddling the equator and the International Date Line, about one-half of the way from Hawaii to Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Korea",
+	"answer" :{
+		"neutral":"    is a peninsula on the eastern edge of the Asian continent."
+		}
+	},  
+	{
+	"pattern" :"Where is Kraftwerk",
+	"answer" :{
+		"neutral":"They are from Dusseldorf, Germany."
+		}
+	},  
+	{
+	"pattern" :"Where is Kuwait",
+	"answer" :{
+		"neutral":"    is a small nation on the Persian gulf."
+		}
+	},  
+	{
+	"pattern" :"Where is Kyrgyzstan",
+	"answer" :{
+		"neutral":"Central Asia, west of China.       "
+		}
+	},  
+	{
+	"pattern" :"Where is La",
+	"answer" :{
+		"neutral":"    is a large city in southern California."
+		}
+	},  
+	{
+	"pattern" :"Where is Laos",
+	"answer" :{
+		"neutral":"Southeastern Asia, northeast of Thailand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Las Vegas",
+	"answer" :{
+		"neutral":"    is in Nevada."
+		}
+	},  
+	{
+	"pattern" :"Where is Latvia",
+	"answer" :{
+		"neutral":"Eastern Europe, bordering the Baltic Sea, between Estonia and Lithuania.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Lebanon",
+	"answer" :{
+		"neutral":"Middle East, bordering the Mediterranean Sea, between israel and Syria.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Lesotho",
+	"answer" :{
+		"neutral":"Southern Africa, an enclave of South Africa.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Liberia",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Cote d'Ivoire and Sierra Leone.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Libya",
+	"answer" :{
+		"neutral":"Northern Africa, bordering the Mediterranean Sea, between Egypt and Tunisia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Lichtenstein",
+	"answer" :{
+		"neutral":"    is a tiny country in central Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Liechtenstein",
+	"answer" :{
+		"neutral":"Central Europe, between Austria and Switzerland.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Lincoln",
+	"answer" :{
+		"neutral":"    is a city in Nebraska."
+		}
+	},  
+	{
+	"pattern" :"Where is Lisbon",
+	"answer" :{
+		"neutral":"    is a city in Portugal."
+		}
+	},  
+	{
+	"pattern" :"Where is Lithuania",
+	"answer" :{
+		"neutral":"Eastern Europe, bordering the Baltic Sea, between Latvia and Russia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is London",
+	"answer" :{
+		"neutral":"    is a city in England."
+		}
+	},  
+	{
+	"pattern" :"Where is Los Angeles",
+	"answer" :{
+		"neutral":"    is a city in California."
+		}
+	},  
+	{
+	"pattern" :"Where is Luxembourg",
+	"answer" :{
+		"neutral":"Western Europe, between France and Germany.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Macau",
+	"answer" :{
+		"neutral":"Eastern Asia, bordering the South China Sea and China.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Macedonia",
+	"answer" :{
+		"neutral":"    is a small nation between Greece and Serbia."
+		}
+	},  
+	{
+	"pattern" :"Where is Madagascar",
+	"answer" :{
+		"neutral":"Southern Africa, island in the Indian Ocean, east of Mozambique.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Madras",
+	"answer" :{
+		"neutral":"    is a city in India."
+		}
+	},  
+	{
+	"pattern" :"Where is Madrid",
+	"answer" :{
+		"neutral":"    is a city in Spain."
+		}
+	},  
+	{
+	"pattern" :"Where is Maine",
+	"answer" :{
+		"neutral":"    is in the northeastern corner of the United States, bordering Canada."
+		}
+	},  
+	{
+	"pattern" :"Where is Malawi",
+	"answer" :{
+		"neutral":"Southern Africa, east of Zambia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Malaysia",
+	"answer" :{
+		"neutral":"    is an island in southeast Asia."
+		}
+	},  
+	{
+	"pattern" :"Where is Maldives",
+	"answer" :{
+		"neutral":"Southern Asia, group of atolls in the Indian Ocean, south-southwest of India.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Mali",
+	"answer" :{
+		"neutral":"Western Africa, southwest of Algeria.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Malta",
+	"answer" :{
+		"neutral":"    is an island in the Mediterranian sea, south of Sicily."
+		}
+	},  
+	{
+	"pattern" :"Where is Manchester",
+	"answer" :{
+		"neutral":"Machester is a city in western England."
+		}
+	},  
+	{
+	"pattern" :"Where is Manhattan",
+	"answer" :{
+		"neutral":"    is the island center of New York City."
+		}
+	},  
+	{
+	"pattern" :"Where is Manila",
+	"answer" :{
+		"neutral":"    is a city in the Phillipines."
+		}
+	},  
+	{
+	"pattern" :"Where is Mars",
+	"answer" :{
+		"neutral":"    is the fourth planet from the Sun."
+		}
+	},  
+	{
+	"pattern" :"Where is Marshall islands",
+	"answer" :{
+		"neutral":"Oceania, group of atolls and reefs in the North Pacific Ocean, about one-half of the way from Hawaii to Papua New Guinea.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Martinique",
+	"answer" :{
+		"neutral":"    is in the Caribbean, part of the Leeward and Windward island chain."
+		}
+	},  
+	{
+	"pattern" :"Where is Maryland",
+	"answer" :{
+		"neutral":"    is an east coast state, between Delaware and Virginia."
+		}
+	},  
+	{
+	"pattern" :"Where is Mauritania",
+	"answer" :{
+		"neutral":"Northern Africa, bordering the North Atlantic Ocean, between Senegal and Western Sahara.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Mauritius",
+	"answer" :{
+		"neutral":"Southern Africa, island in the Indian Ocean, east of Madagascar.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Mayotte",
+	"answer" :{
+		"neutral":"Southern Africa, island in the Mozambique Channel, about one-half of the way from northern Madagascar to northern Mozambique.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Melbourne",
+	"answer" :{
+		"neutral":"    is a city in Australia and also in Florida."
+		}
+	},  
+	{
+	"pattern" :"Where is Mexico",
+	"answer" :{
+		"neutral": "Mexico: so far from God, so close to the United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Miami",
+	"answer" :{
+		"neutral":"    is a large city in Florida, on the south Atlantic coast."
+		}
+	},  
+	{
+	"pattern" :"Where is Michigan",
+	"answer" :{
+		"neutral":"    is a midwestern state on the Great Lakes."
+		}
+	},  
+	{
+	"pattern" :"Where is Micronesia",
+	"answer" :{
+		"neutral":"    is a collection of islands in the Pacific ocean."
+		}
+	},  
+	{
+	"pattern" :"Where is Midway islands",
+	"answer" :{
+		"neutral":"Oceania, atoll in the North Pacific Ocean, about one-third of the way from Honolulu to Tokyo.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Minnesota",
+	"answer" :{
+		"neutral":"    is on the northern border of the United States, between Wisconsin and North Dakota."
+		}
+	},  
+	{
+	"pattern" :"Where is Mississippi",
+	"answer" :{
+		"neutral":"    is in the southern United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Mit",
+	"answer" :{
+		"neutral":"    is a trade school in Cambridge, Mass."
+		}
+	},  
+	{
+	"pattern" :"Where is Moldova",
+	"answer" :{
+		"neutral":"Eastern Europe, northeast of Romania.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Monaco",
+	"answer" :{
+		"neutral":"Western Europe, bordering the Mediterranean Sea, on the southern coast of France, near the border with Italy.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Mongolia",
+	"answer" :{
+		"neutral":"    is in central Asia between Russian Siberia and China."
+		}
+	},  
+	{
+	"pattern" :"Where is Montana",
+	"answer" :{
+		"neutral":"    is in the northwest United States between the Dakotas and Idaho."
+		}
+	},  
+	{
+	"pattern" :"Where is Monterey",
+	"answer" :{
+		"neutral":"Monterey, California."
+		}
+	},  
+	{
+	"pattern" :"Where is Montreal",
+	"answer" :{
+		"neutral":"    is a city in Canada."
+		}
+	},  
+	{
+	"pattern" :"Where is Montserrat",
+	"answer" :{
+		"neutral":"Caribbean, island in the Caribbean Sea, southeast of Puerto Rico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Moon",
+	"answer" :{
+		"neutral":"    is a satellite of the Earth."
+		}
+	},  
+	{
+	"pattern" :"Where is Morocco",
+	"answer" :{
+		"neutral":"    is a nation in northwest Africa, close to Spain."
+		}
+	},  
+	{
+	"pattern" :"Where is Moscow",
+	"answer" :{
+		"neutral":"    is a city in Russia."
+		}
+	},  
+	{
+	"pattern" :"Where is Mozambique",
+	"answer" :{
+		"neutral":"Southern Africa, bordering the Mozambique Channel, between South Africa and Tanzania.       "
+		}
+	},  
+	{
+	"pattern" :"Where is My Car",
+	"answer" :{
+		"neutral":"Have you looked in your garage?"
+		}
+	},  
+	{
+	"pattern" :"Where is Nairobi",
+	"answer" :{
+		"neutral":"    is a city in Kenya."
+		}
+	},  
+	{
+	"pattern" :"Where is Namibia",
+	"answer" :{
+		"neutral":"Southern Africa, bordering the South Atlantic Ocean, between Angola and South Africa.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Nauru",
+	"answer" :{
+		"neutral":"Oceania, island in the South Pacific Ocean, south of the Marshall islands.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Navassa island",
+	"answer" :{
+		"neutral":"Caribbean, island in the Caribbean Sea, about one-fourth of the way from Haiti to Jamaica.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Nebraska",
+	"answer" :{
+		"neutral":"    is on the west bank of the Missouri river, between South Dakota and Kansas."
+		}
+	},  
+	{
+	"pattern" :"Where is Nepal",
+	"answer" :{
+		"neutral":"    is a mountainous nation in southern Asia, between India and Tibet."
+		}
+	},  
+	{
+	"pattern" :"Where is Neptune",
+	"answer" :{
+		"neutral":"    is the eighth planet from the Sun, the last gas planet."
+		}
+	},  
+	{
+	"pattern" :"Where is Netherlands Antilles",
+	"answer" :{
+		"neutral":"Caribbean, two island groups in the Caribbean Sea - one includes Curacao and Bonaire north of Venezuela and the other is east of the Virgin islands.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Netherlands",
+	"answer" :{
+		"neutral":"Western Europe, bordering the North Sea, between Belgium and Germany.       "
+		}
+	},  
+	{
+	"pattern" :"Where is New Caledonia",
+	"answer" :{
+		"neutral":"Oceania, islands in the South Pacific Ocean, east of Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is New Orleans",
+	"answer" :{
+		"neutral":"    is a city in Louisiana."
+		}
+	},  
+	{
+	"pattern" :"Where is New York City",
+	"answer" :{
+		"neutral":"    is located in the Northeastern United States."
+		}
+	},  
+	{
+	"pattern" :"Where is New York",
+	"answer" :{
+		"neutral":"    is located in the Northeastern United States."
+		}
+	},  
+	{
+	"pattern" :"Where is New Zealand",
+	"answer" :{
+		"neutral":"Oceania, islands in the South Pacific Ocean, southeast of Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Newark",
+	"answer" :{
+		"neutral":"    is located in the Northeastern United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Nicaragua",
+	"answer" :{
+		"neutral":"Middle America, bordering both the Caribbean Sea and the North Pacific Ocean, between Costa Rica and Honduras.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Niger",
+	"answer" :{
+		"neutral":"Western Africa, southeast of Algeria.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Nigeria",
+	"answer" :{
+		"neutral":"Western Africa, bordering the Gulf of Guinea, between Benin and Cameroon.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Niue",
+	"answer" :{
+		"neutral":"Oceania, island in the South Pacific Ocean, east of Tonga.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Norfolk island",
+	"answer" :{
+		"neutral":"Oceania, island in the South Pacific Ocean, east of Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Norfolk",
+	"answer" :{
+		"neutral":"    is a city in Virgina."
+		}
+	},  
+	{
+	"pattern" :"Where is North America",
+	"answer" :{
+		"neutral":"North America occupies the northern most of the norther hemisphere of the Earth, from the Bering Strait to Labrador."
+		}
+	},  
+	{
+	"pattern" :"Where is North Korea",
+	"answer" :{
+		"neutral":"Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and the Sea of Japan, between China and South Korea.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Northeastern",
+	"answer" :{
+		"neutral":"    is a university in Boston."
+		}
+	},  
+	{
+	"pattern" :"Where is Northern Mariana islands",
+	"answer" :{
+		"neutral":"Oceania, islands in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Norway",
+	"answer" :{
+		"neutral":"    is a country in northern europe, bordering Sweden."
+		}
+	},  
+	{
+	"pattern" :"Where is Nowhere",
+	"answer" :{
+		"neutral":"    is no where."
+		}
+	},  
+	{
+	"pattern" :"Where is Ohio",
+	"answer" :{
+		"neutral":"    is in the midwest United States, between Pennsylvania and Indiana."
+		}
+	},  
+	{
+	"pattern" :"Where is Oklahoma",
+	"answer" :{
+		"neutral":"    is in the midwestern United States.W"
+		}
+	},  
+	{
+	"pattern" :"Where is Omaha",
+	"answer" :{
+		"neutral":"    is a city in Nebraska."
+		}
+	},  
+	{
+	"pattern" :"Where is Oman",
+	"answer" :{
+		"neutral":"Middle East, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between Yemen and Uae.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Ontario",
+	"answer" :{
+		"neutral":"    is a province of Canada."
+		}
+	},  
+	{
+	"pattern" :"Where is Orlando",
+	"answer" :{
+		"neutral":"    is a city in central Florida."
+		}
+	},  
+	{
+	"pattern" :"Where is Oslo",
+	"answer" :{
+		"neutral":"    is a city in Norway."
+		}
+	},  
+	{
+	"pattern" :"Where is Oxford",
+	"answer" :{
+		"neutral":"    is a University in England.  It is also a small town in Maine and many other U. S. states."
+		}
+	},  
+	{
+	"pattern" :"Where is Oxnard",
+	"answer" :{
+		"neutral":"    is a city in California."
+		}
+	},  
+	{
+	"pattern" :"Where is Pacific Ocean",
+	"answer" :{
+		"neutral":"body of water between Antarctica, Asia, Australia, and the Western Hemisphere.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Pakistan",
+	"answer" :{
+		"neutral":"    is part of the Indian subcontinent, bordering India and Afghanistan."
+		}
+	},  
+	{
+	"pattern" :"Where is Palau",
+	"answer" :{
+		"neutral":"Oceania, group of islands in the North Pacific Ocean, southeast of the Philippines.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Palestine",
+	"answer" :{
+		"neutral":"    is the old name for israel, or the new name for the state inside israel."
+		}
+	},  
+	{
+	"pattern" :"Where is Palmyra Atoll",
+	"answer" :{
+		"neutral":"Oceania, atoll in the North Pacific Ocean, about one-half of the way from Hawaii to American Samoa.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Panama",
+	"answer" :{
+		"neutral":"    is on the isthmus between North and South America."
+		}
+	},  
+	{
+	"pattern" :"Where is Papua New Guinea",
+	"answer" :{
+		"neutral":"Southeastern Asia, group of islands including the eastern half of the island of New Guinea between the Coral Sea and the South Pacific Ocean, east of Indonesia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Paracel islands",
+	"answer" :{
+		"neutral":"Southeastern Asia, group of small islands and reefs in the South China Sea, about one-third of the way from central Vietnam to the northern Philippines.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Paraguay",
+	"answer" :{
+		"neutral":"Central South America, northeast of Argentina.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Paris",
+	"answer" :{
+		"neutral":"    is a city in France."
+		}
+	},  
+	{
+	"pattern" :"Where is Pennsylvania",
+	"answer" :{
+		"neutral":"    is located in the Northeastern United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Perth",
+	"answer" :{
+		"neutral":"    is a city in western Australia."
+		}
+	},  
+	{
+	"pattern" :"Where is Peru",
+	"answer" :{
+		"neutral":"    is a country in South America."
+		}
+	},  
+	{
+	"pattern" :"Where is Philadelphia",
+	"answer" :{
+		"neutral":"    is a large city in southeast Pennsylvania, between New York and Washington, D. C."
+		}
+	},  
+	{
+	"pattern" :"Where is Philippines",
+	"answer" :{
+		"neutral":"Southeastern Asia, archipelago between the Philippine Sea and the South China Sea, east of Vietnam.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Phoenix",
+	"answer" :{
+		"neutral":"    is a large city in Arizona."
+		}
+	},  
+	{
+	"pattern" :"Where is Pitcairn islands",
+	"answer" :{
+		"neutral":"Oceania, islands in the South Pacific Ocean, about one-half of the way from Peru to New Zealand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Pittsburgh",
+	"answer" :{
+		"neutral":"    is a large city in western Pennsylvania."
+		}
+	},  
+	{
+	"pattern" :"Where is Pittsfield",
+	"answer" :{
+		"neutral":"    is a town in Massachusettes."
+		}
+	},  
+	{
+	"pattern" :"Where is Pluto",
+	"answer" :{
+		"neutral":"    is the ninth planet from the Sun."
+		}
+	},  
+	{
+	"pattern" :"Where is Poland",
+	"answer" :{
+		"neutral":"Poland is a large country in central Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Polaris",
+	"answer" :{
+		"neutral":"    is the North Star."
+		}
+	},  
+	{
+	"pattern" :"Where is Portsmouth",
+	"answer" :{
+		"neutral":"Portsmouth, New Hampshire and Portsmouth, England."
+		}
+	},  
+	{
+	"pattern" :"Where is Portugal",
+	"answer" :{
+		"neutral":"    is a country western Europe, on the Iberain penninsula."
+		}
+	},  
+	{
+	"pattern" :"Where is Prussia",
+	"answer" :{
+		"neutral":"A former part of Germany now mostly contained within Poland."
+		}
+	},  
+	{
+	"pattern" :"Where is Puerto Rico",
+	"answer" :{
+		"neutral":"Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, east of the Dominican Republic.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Qatar",
+	"answer" :{
+		"neutral":"Middle East, peninsula bordering the Persian Gulf and Saudi Arabia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Reality",
+	"answer" :{
+		"neutral":"    is all around us, supposedly."
+		}
+	},  
+	{
+	"pattern" :"Where is Reunion",
+	"answer" :{
+		"neutral":"Southern Africa, island in the Indian Ocean, east of Madagascar.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Rio",
+	"answer" :{
+		"neutral":"    is a large city in Brazil"
+		}
+	},  
+	{
+	"pattern" :"Where is Romania",
+	"answer" :{
+		"neutral":"Southeastern Europe, bordering the Black Sea, between Bulgaria and Ukraine.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Rome",
+	"answer" :{
+		"neutral":"    is a large city in Italy."
+		}
+	},  
+	{
+	"pattern" :"Where is Russia",
+	"answer" :{
+		"neutral":"    is a large country in Asia."
+		}
+	},  
+	{
+	"pattern" :"Where is Rwanda",
+	"answer" :{
+		"neutral":"    is a country in Africa."
+		}
+	},  
+	{
+	"pattern" :"Where is Sacramento",
+	"answer" :{
+		"neutral":"    is a city in California."
+		}
+	},  
+	{
+	"pattern" :"Where is Saint Helena",
+	"answer" :{
+		"neutral":"Southern Africa, island in the South Atlantic Ocean, west of Angola, about two-thirds of the way from South America to Africa.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Saint Kitts And Nevis",
+	"answer" :{
+		"neutral":"Caribbean, islands in the Caribbean Sea, about one-third of the way from Puerto Rico to Trinidad and Tobago.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Saint Lucia",
+	"answer" :{
+		"neutral":"Caribbean, island in the Caribbean Sea, north of Trinidad and Tobago.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Saint Pierre And Miquelon",
+	"answer" :{
+		"neutral":"Northern North America, islands in the North Atlantic Ocean, south of Newfoundland {Canada}.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Saint Vincent And The Grenadines",
+	"answer" :{
+		"neutral":"Caribbean, islands in the Caribbean Sea, north of Trinidad and Tobago.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Salem",
+	"answer" :{
+		"neutral":"    is a town in Massachusetts."
+		}
+	},  
+	{
+	"pattern" :"Where is Salt Lake City",
+	"answer" :{
+		"neutral":"    is a city in Utah."
+		}
+	},  
+	{
+	"pattern" :"Where is San Diego",
+	"answer" :{
+		"neutral":"    is a city in California."
+		}
+	},  
+	{
+	"pattern" :"Where is San Francisco",
+	"answer" :{
+		"neutral":"California."
+		}
+	},  
+	{
+	"pattern" :"Where is San Jose",
+	"answer" :{
+		"neutral":"    is a city in California."
+		}
+	},  
+	{
+	"pattern" :"Where is San Marino",
+	"answer" :{
+		"neutral":"Southern Europe, an enclave in central Italy.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Sao Tome And Principe",
+	"answer" :{
+		"neutral":"Western Africa, island in the Atlantic Ocean, straddling the Equator, west of Gabon.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Saskatoon",
+	"answer" :{
+		"neutral":"    is a city in Saskatchewan."
+		}
+	},  
+	{
+	"pattern" :"Where is Saturn",
+	"answer" :{
+		"neutral":"    is the the sixth planet from the sun."
+		}
+	},  
+	{
+	"pattern" :"Where is Saudi Arabia",
+	"answer" :{
+		"neutral":"Middle East, bordering the Persian Gulf and the Red Sea, north of Yemen.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Scotland",
+	"answer" :{
+		"neutral":"Scotland shares an island with England and Wales, off the coast of Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Seattle",
+	"answer" :{
+		"neutral":"    is a large city in Washington state, near Vancover Canada."
+		}
+	},  
+	{
+	"pattern" :"Where is Senegal",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Mauritania.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Seoul",
+	"answer" :{
+		"neutral":"It is the capital of South Korea.    "
+		}
+	},  
+	{
+	"pattern" :"Where is Serbia And Montenegro",
+	"answer" :{
+		"neutral":"Southeastern Europe, bordering the Adriatic Sea, between Albania and Bosnia and Herzegovina.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Serbia",
+	"answer" :{
+		"neutral":"    is the remaining territory of the former Yugoslavia."
+		}
+	},  
+	{
+	"pattern" :"Where is Seychelles",
+	"answer" :{
+		"neutral":"Eastern Africa, group of islands in the Indian Ocean, northeast of Madagascar.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Sheffield",
+	"answer" :{
+		"neutral":"    is a town in England."
+		}
+	},  
+	{
+	"pattern" :"Where is Siam",
+	"answer" :{
+		"neutral":"    is another name for Thailand."
+		}
+	},  
+	{
+	"pattern" :"Where is Sierra Leone",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Guinea and Liberia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Singapore",
+	"answer" :{
+		"neutral":"    is a island nation-state at the tip of the Malay penninsula."
+		}
+	},  
+	{
+	"pattern" :"Where is Slovakia",
+	"answer" :{
+		"neutral":"Central Europe, south of Poland.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Slovenia",
+	"answer" :{
+		"neutral":"Southeastern Europe, bordering the Adriatic Sea, between Croatia and Italy.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Sofia",
+	"answer" :{
+		"neutral":"    is a city in Bulgaria."
+		}
+	},  
+	{
+	"pattern" :"Where is Solomon islands",
+	"answer" :{
+		"neutral":"Oceania, group of islands in the South Pacific Ocean, east of Papua New Guinea.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Somalia",
+	"answer" :{
+		"neutral":"Eastern Africa, bordering the Gulf of Aden and the Indian Ocean, east of Ethiopia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is South Africa",
+	"answer" :{
+		"neutral":"Southern Africa, at the southern tip of the continent of Africa.       "
+		}
+	},  
+	{
+	"pattern" :"Where is South Korea",
+	"answer" :{
+		"neutral":"Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan and the Yellow Sea, south of North Korea.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Space",
+	"answer" :{
+		"neutral":"    is all around us."
+		}
+	},  
+	{
+	"pattern" :"Where is Spain",
+	"answer" :{
+		"neutral":"    is on the Iberian penninsula in southwestern Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Spratly islands",
+	"answer" :{
+		"neutral":"Southeastern Asia, group of reefs in the South China Sea, about two-thirds of the way from southern Vietnam to the southern Philippines.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Sri Lanka",
+	"answer" :{
+		"neutral":"Southern Asia, island in the Indian Ocean, south of India.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Sri",
+	"answer" :{
+		"neutral":"    is a research outfit in Silicon Valley."
+		}
+	},  
+	{
+	"pattern" :"Where is Stockholm",
+	"answer" :{
+		"neutral":"    is a large city in Sweden."
+		}
+	},  
+	{
+	"pattern" :"Where is Stonewall",
+	"answer" :{
+		"neutral":"    is a town in Mississippi."
+		}
+	},  
+	{
+	"pattern" :"Where is Sudan",
+	"answer" :{
+		"neutral":"Northern Africa, bordering the Red Sea, between Egypt and Eritrea.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Suez",
+	"answer" :{
+		"neutral":"    is a canal between the Mediterranian and the Red Sea."
+		}
+	},  
+	{
+	"pattern" :"Where is Suriname",
+	"answer" :{
+		"neutral":"Northern South America, bordering the North Atlantic Ocean, between French Guiana and Guyana.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Svalbard",
+	"answer" :{
+		"neutral":"Northern Europe, islands between the Arctic Ocean, Barents Sea, Greenland Sea, and Norwegian Sea, north of Norway.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Swaziland",
+	"answer" :{
+		"neutral":"Southern Africa, between Mozambique and South Africa.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Sweden",
+	"answer" :{
+		"neutral":"    is a country in northern europe, bordering Finland and Norway."
+		}
+	},  
+	{
+	"pattern" :"Where is Switzerland",
+	"answer" :{
+		"neutral":"    is a country in centrail Europe, bordering Italy, Austria and France."
+		}
+	},  
+	{
+	"pattern" :"Where is Sydney",
+	"answer" :{
+		"neutral":"    is a city in Australia."
+		}
+	},  
+	{
+	"pattern" :"Where is Syria",
+	"answer" :{
+		"neutral":"Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Taipei",
+	"answer" :{
+		"neutral":"It is the capital of Taiwan.      "
+		}
+	},  
+	{
+	"pattern" :"Where is Taiwan",
+	"answer" :{
+		"neutral":"    is an island country in Asia."
+		}
+	},  
+	{
+	"pattern" :"Where is Tajikistan",
+	"answer" :{
+		"neutral":"Central Asia, west of China.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Tanzania",
+	"answer" :{
+		"neutral":"Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Tennessee",
+	"answer" :{
+		"neutral":"    is in the southern United States.."
+		}
+	},  
+	{
+	"pattern" :"Where is Texas",
+	"answer" :{
+		"neutral":"    is in the  south central region of the United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Thailand",
+	"answer" :{
+		"neutral":"    is in southeast Asia, between Burma and Cambodia."
+		}
+	},  
+	{
+	"pattern" :"Where is That",
+	"answer" :{
+		"neutral":"What does that refer to?"
+		}
+	},  
+	{
+	"pattern" :"Where is The Airport",
+	"answer" :{
+		"neutral":"It is where the planes land.    "
+		}
+	},  
+	{
+	"pattern" :"Where is The Bahamas",
+	"answer" :{
+		"neutral":"Caribbean, chain of islands in the North Atlantic Ocean, southeast of Florida.       "
+		}
+	},  
+	{
+	"pattern" :"Where is The Bathroom",
+	"answer" :{
+		"neutral":"Follow the plumbing."
+		}
+	},  
+	{
+	"pattern" :"Where is The Center",
+	"answer" :{
+		"neutral":"It depends on the coordinate frame."
+		}
+	},  
+	{
+	"pattern" :"Where is The Gambia",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean and Senegal.       "
+		}
+	},  
+	{
+	"pattern" :"Where is The Heart",
+	"answer" :{
+		"neutral":"The heart is at the center of things."
+		}
+	},  
+	{
+	"pattern" :"Where is The isle Of Man",
+	"answer" :{
+		"neutral":"Western Europe, island in the Irish Sea, between Great Britain and Ireland.       "
+		}
+	},  
+	{
+	"pattern" :"Where is The Louvre",
+	"answer" :{
+		"neutral":"Paris."
+		}
+	},  
+	{
+	"pattern" :"Where is The Moon",
+	"answer" :{
+		"neutral":"    orbits around the Earth."
+		}
+	},  
+	{
+	"pattern" :"Where is The Philippines",
+	"answer" :{
+		"neutral":"An island nation in the South Pacific."
+		}
+	},  
+	{
+	"pattern" :"Where is The Robot",
+	"answer" :{
+		"neutral":"The robot is here in your computer."
+		}
+	},  
+	{
+	"pattern" :"Where is The Sun",
+	"answer" :{
+		"neutral":"It is in the center of the solar system.    "
+		}
+	},  
+	{
+	"pattern" :"Where is Togo",
+	"answer" :{
+		"neutral":"Western Africa, bordering the North Atlantic Ocean, between Benin and Ghana.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Tokelau",
+	"answer" :{
+		"neutral":"Oceania, group of islands in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Tokyo",
+	"answer" :{
+		"neutral":"    is a city in Japan."
+		}
+	},  
+	{
+	"pattern" :"Where is Toledo",
+	"answer" :{
+		"neutral":"    is a city in Ohio."
+		}
+	},  
+	{
+	"pattern" :"Where is Tonga",
+	"answer" :{
+		"neutral":"Oceania, archipelago in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Toronto",
+	"answer" :{
+		"neutral":"    is a city in Canada."
+		}
+	},  
+	{
+	"pattern" :"Where is Trinidad And Tobago",
+	"answer" :{
+		"neutral":"Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, northeast of Venezuela.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Trinidad",
+	"answer" :{
+		"neutral":"    is an island nation in the Netherlands Antilles."
+		}
+	},  
+	{
+	"pattern" :"Where is Tromelin island",
+	"answer" :{
+		"neutral":"Southern Africa, island in the Indian Ocean, east of Madagascar.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Troy",
+	"answer" :{
+		"neutral":"    is a city in New York."
+		}
+	},  
+	{
+	"pattern" :"Where is Tunisia",
+	"answer" :{
+		"neutral":"Northern Africa, bordering the Mediterranean Sea, between Algeria and Libya.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Turkey",
+	"answer" :{
+		"neutral":"    is in southwest Asia, between Europe and the middle East and guarding the Black Sea of Russia."
+		}
+	},  
+	{
+	"pattern" :"Where is Turkmenistan",
+	"answer" :{
+		"neutral":"Central Asia, bordering the Caspian Sea, between Iran and Kazakstan.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Turks And Caicos islands",
+	"answer" :{
+		"neutral":"Caribbean, two island groups in the North Atlantic Ocean, southeast of The Bahamas.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Tuscaloosa",
+	"answer" :{
+		"neutral":"    is in Alabama, last I heard."
+		}
+	},  
+	{
+	"pattern" :"Where is Tuvalu",
+	"answer" :{
+		"neutral":"Oceania, island group consisting of nine coral atolls in the South Pacific Ocean, about one-half of the way from Hawaii to Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Uganda",
+	"answer" :{
+		"neutral":"Eastern Africa, west of Kenya.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Ukraine",
+	"answer" :{
+		"neutral":"Eastern Europe, bordering the Black Sea, between Poland and Russia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is United Arab Emirates",
+	"answer" :{
+		"neutral":"Middle East, bordering the Gulf of Oman and the Persian Gulf, between Oman and Saudi Arabia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is United Kingdom",
+	"answer" :{
+		"neutral":"Western Europe, islands including the northern one-sixth of the island of Ireland between the North Atlantic Ocean and the North Sea, northwest of France.       "
+		}
+	},  
+	{
+	"pattern" :"Where is United States",
+	"answer" :{
+		"neutral":"North America, bordering both the North Atlantic Ocean and the North Pacific Ocean, between Canada and Mexico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Uranus",
+	"answer" :{
+		"neutral":"    is the seventh planet from the sun, between the orbits of Saturn and Neptune."
+		}
+	},  
+	{
+	"pattern" :"Where is Uruguay",
+	"answer" :{
+		"neutral":"Southern South America, bordering the South Atlantic Ocean, between Argentina and Brazil.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Usa",
+	"answer" :{
+		"neutral":"    is in North America, between Canada and Mexico."
+		}
+	},  
+	{
+	"pattern" :"Where is Utah",
+	"answer" :{
+		"neutral":"    is in the western United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Utopia",
+	"answer" :{
+		"neutral":"    is all around us, if we make it."
+		}
+	},  
+	{
+	"pattern" :"Where is Uzbekistan",
+	"answer" :{
+		"neutral":"Central Asia, north of Afghanistan.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Vancouver",
+	"answer" :{
+		"neutral":"Vancouver, B.C., Canada, or Vancouver, Washington?"
+		}
+	},  
+	{
+	"pattern" :"Where is Vanuatu",
+	"answer" :{
+		"neutral":"Oceania, group of islands in the South Pacific Ocean, about three-quarters of the way from Hawaii to Australia.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Venezuela",
+	"answer" :{
+		"neutral":"Northern South America, bordering the Caribbean Sea and the North Atlantic Ocean, between Colombia and Guyana.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Vermont",
+	"answer" :{
+		"neutral":"    is in New England, between New York and New Hampshire, on the west bank of the Connecticut river."
+		}
+	},  
+	{
+	"pattern" :"Where is Vienna",
+	"answer" :{
+		"neutral":"     It is the capital city of Austria."
+		}
+	},  
+	{
+	"pattern" :"Where is Vietnam",
+	"answer" :{
+		"neutral":"    is in southeast Asia."
+		}
+	},  
+	{
+	"pattern" :"Where is Virgin islands",
+	"answer" :{
+		"neutral":"Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Virginia",
+	"answer" :{
+		"neutral":"    is in the eastern United States."
+		}
+	},  
+	{
+	"pattern" :"Where is Voyager",
+	"answer" :{
+		"neutral":"    is lost in Delta Quadrant."
+		}
+	},  
+	{
+	"pattern" :"Where is Wake island",
+	"answer" :{
+		"neutral":"Oceania, island in the North Pacific Ocean, about two-thirds of the way from Hawaii to the Northern Mariana islands.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Wales",
+	"answer" :{
+		"neutral":"    is located on a small island off the coast of Europe."
+		}
+	},  
+	{
+	"pattern" :"Where is Warsaw",
+	"answer" :{
+		"neutral":"    is a large city in Poland."
+		}
+	},  
+	{
+	"pattern" :"Where is Washington",
+	"answer" :{
+		"neutral":"    is a state in the northwest corner of the U.S."
+		}
+	},  
+	{
+	"pattern" :"Where is West Bank",
+	"answer" :{
+		"neutral":"Middle East, west of Jordan.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Western Sahara",
+	"answer" :{
+		"neutral":"Northern Africa, bordering the North Atlantic Ocean, between Mauritania and Morocco.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Western Samoa",
+	"answer" :{
+		"neutral":"Oceania, group of islands in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Wonderland",
+	"answer" :{
+		"neutral":"    is in the future."
+		}
+	},  
+	{
+	"pattern" :"Where is Wyoming",
+	"answer" :{
+		"neutral":"    is a western U.S. state between Montana and Colorado."
+		}
+	},  
+	{
+	"pattern" :"Where is Yakima",
+	"answer" :{
+		"neutral":"    is a city and a river in Washington."
+		}
+	},  
+	{
+	"pattern" :"Where is Yemen",
+	"answer" :{
+		"neutral":"Middle East, bordering the Arabian Sea, Gulf of Aden, and Red Sea, between Oman and Saudi Arabia.       "
+		}
+	},    
+	{
+	"pattern" :"Where is Zaire",
+	"answer" :{
+		"neutral":"Central Africa, northeast of Angola.       "
+		}
+	},  
+	{
+	"pattern" :"Where is zambia",
+	"answer" :{
+		"neutral":"Southern Africa, east of Angola.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Zimbabwe",
+	"answer" :{
+		"neutral":"Southern Africa, northeast of Botswana.       "
+		}
+	},  
+	{
+	"pattern" :"Where is Zurich",
+	"answer" :{
+		"neutral":"    is a city in Switzerland."
+		}
+	},  
+	{
+	"pattern" :"Which Continent is Austria On",
+	"answer" :{
+		"neutral":"Europe."
+		}
+	},  
+	{
+	"pattern" :"Who is President Of Canada",
+	"answer" :{
+		"neutral":"Canada has a Prime Minister, not a President."
+		}
+	},  
+	{
+	"pattern" :"Who is Winston Churchill",
+	"answer" :{
+		"neutral":"Prime Minister of the U.K. during World War Ii."
+		}
+	},  
+	{
+	"pattern" :"Why California",
+	"answer" :{
+		"neutral":"I like living in california."
+		}
+	}]
+}
